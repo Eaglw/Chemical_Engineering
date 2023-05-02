@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "957476debec825df",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c5d276b829c3eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f51eba2f42d57a46",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1787ceb753b3073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63c0454007665e3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "56eace236956b74b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4148c0ac7f6fa228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d363fb3cf48a350",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc39e9cfdf7b0014",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2067a764a686f90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9e52b4b502f9dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802b54a01a1e778f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7419912df5f779f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96a2a448bc906aa5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c393e589b23f601a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "a1787ceb753b3073",
+  "lastOpenFiles": [
+    "Forza napoli.md",
+    "Rheology/Rheometers/Most common geometry.md",
+    "Rheology/Rheometers",
+    "Rheology/Polymers",
+    "CBR",
+    "Rheology"
+  ]
+}
