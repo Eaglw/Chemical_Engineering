@@ -26,33 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2617570ab1309e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Provanza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac0794b14deb80a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rheology/Rheometers/Most common geometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +156,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ac0794b14deb80a8",
+  "active": "a1787ceb753b3073",
   "lastOpenFiles": [
-    "Provo ora.md",
     "Provanza.md",
+    "Provo ora.md",
     "Rheology/Rheometers/Most common geometry.md",
     "Forza napoli.md",
     "Rheology/Rheometers",

@@ -2,7 +2,9 @@
 
 ## Cone and plate
 Sto facendo questa prova per vedere la situazione
-<!--ID: 1683062784322-->
+<!--ID: 1683063117394-->
+
+
 
 ## Plate and plate 
 
@@ -15,5 +17,7 @@ Disadvantages:
  -  Not suitable for very viscous samples because when we place the sample, then we have to push the upper cylinder inside the lower one. Such procedure is not easy if the fluid is very viscous because it would exert a strong resistance. So this system is only usable for liquids whose viscosity is comparable to the one of water or of olive oil.
 -  We would need relatively large amounts of samples to measure (3-30 ml): if we are working in a lab we might have very tiny amounts of samples, in industries this is not usually a problem.
 -  The instrument might be difficult to clean if the sample is sticky: the outer cylinder has usually an inner radius of 15-25 mm while the gap is of about 1 mm maximum. For this reason, usually the bottom is unscrewable.
-<!--ID: 1683062893385-->
+<!--ID: 1683063117400-->
 
+
+# vediamo s
