@@ -45,7 +45,7 @@
     },
     "Defaults": {
       "Tag": "",
-      "Deck": "Default",
+      "Deck": "obsidian",
       "Scheduling Interval": 0,
       "Add File Link": false,
       "Add Context": false,
@@ -57,7 +57,7 @@
   },
   "Added Media": [],
   "File Hashes": {
-    "Rheology/Rheometers/Most common geometry.md": "0cfd5708ab6452319b46fa742c6fda18"
+    "Rheology/Rheometers/Most common geometry.md": "1c5fbba063313f884c1dbdb30fd73405"
   },
   "fields_dict": {
     "10 Questions": [
