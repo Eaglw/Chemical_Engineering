@@ -1,0 +1,124 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "10 Questions": "",
+      "Basilare": "",
+      "Basilare (carta inversa opzionale)": "",
+      "Basilare (digita la risposta)": "",
+      "Basilare (e carta inversa)": "",
+      "Cloze-AnKingMaster-v2": "",
+      "Image Occlusion Enhanced": "",
+      "Testo da completare": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "10 Questions": "A",
+      "Basilare": "Fronte",
+      "Basilare (carta inversa opzionale)": "Fronte",
+      "Basilare (digita la risposta)": "Fronte",
+      "Basilare (e carta inversa)": "Fronte",
+      "Cloze-AnKingMaster-v2": "Text",
+      "Image Occlusion Enhanced": "ID (hidden)",
+      "Testo da completare": "Testo"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Rheology": "",
+      "CBR": "",
+      "Rheology/Polymers": "",
+      "Rheology/Rheometers": ""
+    },
+    "FOLDER_TAGS": {
+      "Rheology": "",
+      "CBR": "",
+      "Rheology/Polymers": "",
+      "Rheology/Rheometers": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Rheology/Rheometers/Most common geometry.md": "3439641403c18c66cf114f439372f3bf"
+  },
+  "fields_dict": {
+    "10 Questions": [
+      "A",
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q5",
+      "Q6",
+      "Q7",
+      "Q8",
+      "Q9",
+      "Q10"
+    ],
+    "Basilare": [
+      "Fronte",
+      "Retro"
+    ],
+    "Basilare (carta inversa opzionale)": [
+      "Fronte",
+      "Retro",
+      "Aggiungi inversa"
+    ],
+    "Basilare (digita la risposta)": [
+      "Fronte",
+      "Retro"
+    ],
+    "Basilare (e carta inversa)": [
+      "Fronte",
+      "Retro"
+    ],
+    "Cloze-AnKingMaster-v2": [
+      "Text",
+      "Extra",
+      "Lecture Notes",
+      "Missed Questions",
+      "Pathoma",
+      "Boards and Beyond",
+      "First Aid",
+      "Sketchy",
+      "Pixorize",
+      "Physeo",
+      "Additional Resources"
+    ],
+    "Image Occlusion Enhanced": [
+      "ID (hidden)",
+      "Header",
+      "Image",
+      "Question Mask",
+      "Footer",
+      "Remarks",
+      "Sources",
+      "Extra 1",
+      "Extra 2",
+      "Answer Mask",
+      "Original Mask"
+    ],
+    "Testo da completare": [
+      "Testo",
+      "Back Extra"
+    ]
+  }
+}
