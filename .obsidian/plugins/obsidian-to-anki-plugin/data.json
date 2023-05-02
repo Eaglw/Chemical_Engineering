@@ -2,7 +2,7 @@
   "settings": {
     "CUSTOM_REGEXPS": {
       "10 Questions": "",
-      "Basilare": "^#+(.+)\\n*((?:\\n(?:^[^\\n#].{0,2}$|^[^\\n#].{3}(?<!<!--).*))+)",
+      "Basilare": "^#{3,}(.+)\\n*((?:\\n(?:^[^\\n#].{0,2}$|^[^\\n#].{3}(?<!<!--).*))+)",
       "Basilare (carta inversa opzionale)": "",
       "Basilare (digita la risposta)": "",
       "Basilare (e carta inversa)": "",
@@ -59,7 +59,7 @@
   "File Hashes": {
     "Provo ora.md": "61172540fa5db52471992fefa36ee2f1",
     "Provanza.md": "e1ea6efee4ff46b73303de1248730e7a",
-    "Rheology/Rheometers/Most common geometry.md": "4c0625ae0e669c4d4674edc20dbf04ee"
+    "Rheology/Rheometers/Most common geometry.md": "ba9d32342e6224a9e5c99ea9c5079b9f"
   },
   "fields_dict": {
     "10 Questions": [
