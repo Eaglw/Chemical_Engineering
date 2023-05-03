@@ -11,8 +11,12 @@
             "id": "1744834a74c6fabf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rheology/Rheometers/Most common geometry.md"
+              }
             }
           }
         ]
@@ -139,7 +147,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "4148c0ac7f6fa228",
+  "active": "1744834a74c6fabf",
   "lastOpenFiles": [
     "Rheology/Rheometers/Most common geometry.md",
     "Provanza.md",
