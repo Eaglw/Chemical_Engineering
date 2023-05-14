@@ -71,6 +71,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "5caa0949575bb9b0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -131,7 +139,7 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "01b2b994c450575b",
+  "active": "6ded7f3dab56900c",
   "lastOpenFiles": [
     "Rheology/Rheometers",
     "Rheology",
