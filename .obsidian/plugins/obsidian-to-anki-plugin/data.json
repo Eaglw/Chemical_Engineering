@@ -55,11 +55,13 @@
       "Add Obsidian Tags": false
     }
   },
-  "Added Media": [],
+  "Added Media": [
+    "Si.png"
+  ],
   "File Hashes": {
     "Provo ora.md": "61172540fa5db52471992fefa36ee2f1",
     "Provanza.md": "e1ea6efee4ff46b73303de1248730e7a",
-    "Rheology/Rheometers/Most common geometry.md": "2d129e9e5da347a8580041d52fc8eb95"
+    "Rheology/Rheometers/Most common geometry.md": "683e02a98ce2aca31df4ac7bab38299c"
   },
   "fields_dict": {
     "10 Questions": [

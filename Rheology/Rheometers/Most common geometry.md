@@ -34,3 +34,6 @@ Disadvantages:
 Questo è quello che intendo $\frac{M}{2\pi R^{3}}[\frac{d ln M}{d ln \dot{\gamma}_{R}}+3]=\sigma(R)$
 <!--ID: 1683123839738-->
 
+### forza napoli 
+![[Si.png]]
+<!--ID: 1683147682843-->
