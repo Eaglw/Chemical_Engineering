@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "79ff7f119254a662",
+        "id": "94067bdf3969cf4a",
         "type": "tabs",
         "children": [
           {
-            "id": "01b2b994c450575b",
+            "id": "bb928dd7d793aa15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rheology/Rheometers/Most common geometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d341125612a2086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Si.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Si.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Si.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Si.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -153,12 +132,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d341125612a2086",
+  "active": "6ded7f3dab56900c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-05-15 10.14.13.excalidraw.md",
+    "![[Si 2023-05-15 10.18.19.excalidraw.md",
     "Si.md",
-    "Excalidraw/Drawing 2023-05-15 10.15.28.excalidraw.md",
     "Rheology/Rheometers/Most common geometry.md",
+    "Excalidraw/Si 2023-05-15 10.18.19.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-15 10.14.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-15 10.15.28.excalidraw.md",
     "Excalidraw",
     "Rheology/Photo",
     "Rheology/Photo/Si.png",
