@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d341125612a2086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Si.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Rheology/Rheometers/Most common geometry.md",
+            "file": "Si.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Rheology/Rheometers/Most common geometry.md",
+            "file": "Si.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rheology/Rheometers/Most common geometry.md"
+            "file": "Si.md"
           }
         }
       }
@@ -136,18 +149,23 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ded7f3dab56900c",
+  "active": "2d341125612a2086",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-15 10.14.13.excalidraw.md",
+    "Si.md",
+    "Excalidraw/Drawing 2023-05-15 10.15.28.excalidraw.md",
+    "Rheology/Rheometers/Most common geometry.md",
+    "Excalidraw",
     "Rheology/Photo",
     "Rheology/Photo/Si.png",
     "/Rheology/Rheometers/Most common geometry.md",
     "/Rheology/Photo/Si.png",
     "/Rheology/Photo",
     "Rheology/Rheometers",
-    "Rheology",
-    "Rheology/Rheometers/Most common geometry.md"
+    "Rheology"
   ]
 }
