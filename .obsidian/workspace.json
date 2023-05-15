@@ -144,17 +144,14 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "1744834a74c6fabf",
+  "active": "4148c0ac7f6fa228",
   "lastOpenFiles": [
-    "Excalidraw/Most common geometry 2023-05-15 11.15.15.excalidraw.md",
-    "Rheology/Rheometers/Most common geometry.md",
-    "Excalidraw",
-    "Rheology/Photo/Si.png",
     "Rheology/Photo",
+    "Rheology/Photo/Si.png",
+    "Rheology/Rheometers/Most common geometry.md",
     "Provanza.md",
     "Provo ora.md",
     "Forza napoli.md",
