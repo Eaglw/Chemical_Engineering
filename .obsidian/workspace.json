@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ed1bd730a15db39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Napoli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rheology/Rheometers/Most common geometry.md",
+                "file": "Napoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rheology/Rheometers/Most common geometry.md",
+                "file": "Napoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rheology/Rheometers/Most common geometry.md"
+                "file": "Napoli.md"
               }
             }
           }
@@ -157,12 +169,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab9e77ec2cc08f91",
+  "active": "0ed1bd730a15db39",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Rheology/Rheometers/Most common geometry.md",
-    "Excalidraw/Most common geometry 2023-05-15 11.15.15.excalidraw.md",
+    "Senza nome.md",
+    "Napoli.md",
+    "Excalidraw/Napoli 2023-05-15 11.20.52.excalidraw.md",
     "Excalidraw",
+    "Rheology/Rheometers/Most common geometry.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Most common geometry 2023-05-15 11.15.15.excalidraw.md",
     "Rheology/Photo/Si.png",
     "Rheology/Photo",
     "Provanza.md",
