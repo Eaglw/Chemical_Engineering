@@ -11,8 +11,22 @@
             "id": "b6ca834f9f8f5d59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Napoli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9409fae2ca8c6b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md"
+              }
             }
           },
           {
@@ -26,21 +40,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ed1bd730a15db39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Napoli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,10 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ed1bd730a15db39",
+  "active": "b6ca834f9f8f5d59",
   "lastOpenFiles": [
-    "Senza nome.md",
+    "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Napoli.md",
+    "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.29.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.29.09.excalidraw.md",
+    "Senza nome.md",
     "Excalidraw/Napoli 2023-05-15 11.20.52.excalidraw.md",
     "Excalidraw",
     "Rheology/Rheometers/Most common geometry.md",
