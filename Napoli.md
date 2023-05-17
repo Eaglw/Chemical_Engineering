@@ -2,9 +2,7 @@
 
 ````col
 ```col-md
-===
-> [!info] marion
-> ssi
+Provo a scrivere un memino piccolino piccolino patatino
 ```
 ```col-md
 ===
