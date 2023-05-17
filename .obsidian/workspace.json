@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Napoli.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "Napoli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "Napoli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "Napoli.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "b6ca834f9f8f5d59",
   "lastOpenFiles": [
-    "Napoli.md",
     "_index.md",
+    "Napoli.md",
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.29.00.excalidraw.md",
