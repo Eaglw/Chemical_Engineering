@@ -4,7 +4,10 @@
 ```col-md
 flexGrow=1
 ===
-> marion
+> [!info] marion
 > ssi
 ```
 ````
+
+> [!info]+ foldable
+>mario
