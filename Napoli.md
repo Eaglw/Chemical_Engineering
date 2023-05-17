@@ -2,12 +2,15 @@
 
 ````col
 ```col-md
-flexGrow=1
 ===
 > [!info] marion
 > ssi
 ```
+```col-md
+===
+```bash
+sudo apt update && sudo apt upgrade -y
+```
 ````
-
 > [!info]+ foldable
 >mario

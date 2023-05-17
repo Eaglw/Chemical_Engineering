@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-to-anki-plugin",
-  "callout-manager"
+  "callout-manager",
+  "obsidian-columns"
 ]
