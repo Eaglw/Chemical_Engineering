@@ -6,4 +6,4 @@ enableToc: true
 Ciao mamma guarda i meme
 
 # Table of contents
-- [[Most common geometry]]
+- [[Rheology/Rheometers/Most common geometry|Most common geometry]]
