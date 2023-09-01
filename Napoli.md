@@ -12,3 +12,7 @@ sudo apt update && sudo apt upgrade -y
 ````
 > [!info]+ foldable
 >mario
+
+>[!tips] tips
+>ciao
+>
