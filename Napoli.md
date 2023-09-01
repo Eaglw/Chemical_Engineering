@@ -15,4 +15,16 @@ sudo apt update && sudo apt upgrade -y
 
 >[!tips] tips
 >ciao
->
+
+’’’bash
+ueueu
+’’’
+¢‰›⁄   ≈¿±}{Ç∞◊·— ı»”}
+````col
+```col-md
+ciaooo
+```
+```col-md
+ueu
+```
+````
