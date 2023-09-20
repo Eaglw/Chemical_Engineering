@@ -8,34 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6ca834f9f8f5d59",
+            "id": "1253ef3a2783263d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Napoli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9409fae2ca8c6b8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ab9e77ec2cc08f91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rheology/Rheometers/Most common geometry.md",
+                "file": "Soft Matter/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Napoli.md",
+                "file": "Soft Matter/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Napoli.md",
+                "file": "Soft Matter/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Napoli.md"
+                "file": "Soft Matter/Overview.md"
               }
             }
           }
@@ -170,17 +148,18 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b6ca834f9f8f5d59",
+  "active": "1253ef3a2783263d",
   "lastOpenFiles": [
+    "Napoli.md",
+    "Soft Matter/Overview.md",
+    "Soft Matter",
     "_index.md",
     "Rheology/Rheometers/Most common geometry.md",
-    "Napoli.md",
     "Rheology/Photo/Si.png",
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.29.00.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.29.09.excalidraw.md",
-    "Senza nome.md",
     "Excalidraw/Napoli 2023-05-15 11.20.52.excalidraw.md",
     "Excalidraw",
     "conflict-files-obsidian-git.md",
