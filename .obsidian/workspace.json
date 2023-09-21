@@ -8,29 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1253ef3a2783263d",
+            "id": "2bf99a8726908249",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Soft Matter/Overview.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2bf99a8726908249",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

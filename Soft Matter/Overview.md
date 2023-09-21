@@ -1,3 +1,10 @@
+---
+aliases:
+  - dd
+excalidraw-plugin: parsed
+tags:
+  - sdd
+---
 
 ### Differences between classical and speciality chemicals
 Classical chemicals the first produced by the chemical industry since 60'. They are basic compounds, *commodity chemicals*(ammonia, methanol, sulfuric acid), and they are define by their chemical composition, they are in single phase and simple molecules.
