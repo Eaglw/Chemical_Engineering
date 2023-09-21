@@ -7,3 +7,6 @@ The goal with classical chemicals was to maximize production and so minimize the
 Also, speciality chemicals' value is a lot higher than the value of the reagents.
 <!--ID: 1695225247289-->
 
+### The continuum hypotesis is always valid?
+If we are dealing with a reactor with micro dimentions, this hypotesys may be not valid. If we use macromolecules like polymers, the dimention of the molecule became relevant in a micro scale, so we can't apply the continuum hypotesis.
+<!--ID: 1695226069320-->
