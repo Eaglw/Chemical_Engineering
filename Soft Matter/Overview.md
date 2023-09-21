@@ -1,6 +1,5 @@
 ---
-aliases:
-  - dd
+aliases: []
 excalidraw-plugin: parsed
 tags:
   - sdd
