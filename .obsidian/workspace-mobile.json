@@ -93,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Soft Matter/Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Soft Matter/Overview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Soft Matter/Overview.md"
+          }
         }
       }
     ],
@@ -136,12 +140,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ded7f3dab56900c",
+  "active": "d54f6eb7ee876ff6",
   "lastOpenFiles": [
-    "_index.md",
-    "Rheology/Photo/Si.png",
+    "Rheology/Rheometers/Most common geometry.md",
+    "Si.png.md",
     "Soft Matter/Overview.md",
     "Napoli.md",
+    "_index.md",
+    "Rheology/Photo/Si.png",
     "Soft Matter",
     "/Soft Matter/Overview.md",
     "/Napoli.md",
@@ -152,7 +158,6 @@
     "/Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "/Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
     "Drawing 2023-05-15 11.22.15.excalidraw.md",
-    "Rheology/Rheometers/Most common geometry.md",
     "Excalidraw/Napoli 2023-05-15 11.20.52.excalidraw.md",
     "Ok.md",
     "Excalidraw/Ok 2023-05-15 10.32.12.excalidraw.md",
