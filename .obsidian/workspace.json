@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc5bf2a175001624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Simulation/concepts/Senza nome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft Matter/Overview.md",
+                "file": "Numerical Simulation/concepts/Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft Matter/Overview.md",
+                "file": "Numerical Simulation/concepts/Senza nome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft Matter/Overview.md"
+                "file": "Numerical Simulation/concepts/Senza nome.md"
               }
             }
           },
@@ -161,8 +174,10 @@
   },
   "active": "4148c0ac7f6fa228",
   "lastOpenFiles": [
-    "Rheology/Rheometers/Most common geometry.md",
+    "Numerical Simulation/concepts",
     "Soft Matter/Overview.md",
+    "Numerical Simulation/concepts/Senza nome.md",
+    "Rheology/Rheometers/Most common geometry.md",
     "Unit Operation",
     "Numerical Simulation",
     "Napoli.md",
