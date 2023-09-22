@@ -15,6 +15,7 @@
               "state": {
                 "file": "Soft Matter/Overview.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -139,12 +140,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +159,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2bf99a8726908249",
+  "active": "4148c0ac7f6fa228",
   "lastOpenFiles": [
+    "Rheology/Rheometers/Most common geometry.md",
     "Soft Matter/Overview.md",
     "Unit Operation",
     "Numerical Simulation",
     "Napoli.md",
     "Soft Matter",
     "_index.md",
-    "Rheology/Rheometers/Most common geometry.md",
     "Rheology/Photo/Si.png",
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
