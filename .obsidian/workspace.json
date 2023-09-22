@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical Simulation/concepts/Senza nome.md",
+                "file": "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical Simulation/concepts/Senza nome.md",
+                "file": "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numerical Simulation/concepts/Senza nome.md",
+                "file": "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical Simulation/concepts/Senza nome.md"
+                "file": "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md"
               }
             }
           },
@@ -172,11 +172,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "4148c0ac7f6fa228",
+  "active": "bc5bf2a175001624",
   "lastOpenFiles": [
     "Numerical Simulation/concepts",
     "Soft Matter/Overview.md",
-    "Numerical Simulation/concepts/Senza nome.md",
+    "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
     "Rheology/Rheometers/Most common geometry.md",
     "Unit Operation",
     "Numerical Simulation",
