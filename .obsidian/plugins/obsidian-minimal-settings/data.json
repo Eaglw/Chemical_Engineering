@@ -1,6 +1,6 @@
 {
   "theme": "moonstone",
-  "lightStyle": "minimal-light",
+  "lightStyle": "minimal-light-contrast",
   "darkStyle": "minimal-dark-tonal",
   "lightScheme": "minimal-gruvbox-light",
   "darkScheme": "minimal-gruvbox-dark",
