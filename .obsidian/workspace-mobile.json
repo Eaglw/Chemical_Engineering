@@ -140,13 +140,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ded7f3dab56900c",
+  "active": "d54f6eb7ee876ff6",
   "lastOpenFiles": [
+    "Rheology/Rheometers/Most common geometry.md",
+    "Numerical Simulation/concepts/siuum.md",
+    "Soft Matter/Overview.md",
+    "Numerical Simulation/concepts",
+    "Numerical Simulation",
+    "/Numerical Simulation/concepts/siuum.md",
+    "/Numerical Simulation/concepts",
+    "/Numerical Simulation",
     "/Soft Matter/Overview.md",
     "/Rheology/Rheometers/Most common geometry.md",
-    "Rheology/Rheometers/Most common geometry.md",
     "Si.png.md",
-    "Soft Matter/Overview.md",
     "Napoli.md",
     "_index.md",
     "Rheology/Photo/Si.png",
@@ -172,7 +178,6 @@
     "Rheology/Photo",
     "/Rheology/Photo/Si.png",
     "/Rheology/Photo",
-    "Rheology/Rheometers",
-    "Rheology"
+    "Rheology/Rheometers"
   ]
 }
