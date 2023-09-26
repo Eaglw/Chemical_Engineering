@@ -8,32 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bf99a8726908249",
+            "id": "b83e9dbe3844f42c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft Matter/Overview.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7909df0f625007b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soft Matter/Overview.md",
+                "file": "Numerical Simulation/Comsol/Geometry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft Matter/Overview.md",
+                "file": "Numerical Simulation/Comsol/Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft Matter/Overview.md",
+                "file": "Numerical Simulation/Comsol/Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft Matter/Overview.md"
+                "file": "Numerical Simulation/Comsol/Geometry.md"
               }
             }
           },
@@ -172,10 +158,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c7909df0f625007b",
+  "active": "b83e9dbe3844f42c",
   "lastOpenFiles": [
-    "Numerical Simulation/concepts/siuum.md",
     "Soft Matter/Overview.md",
+    "Numerical Simulation/Comsol/Geometry.md",
+    "Senza nome",
+    "Numerical Simulation/concepts/siuum.md",
+    "Numerical Simulation/Comsol",
     "Numerical Simulation/concepts",
     "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
     "Rheology/Rheometers/Most common geometry.md",
@@ -198,8 +187,6 @@
     "Provo ora.md",
     "Forza napoli.md",
     "Rheology/Rheometers",
-    "Rheology/Polymers",
-    "CBR",
-    "Rheology"
+    "Rheology/Polymers"
   ]
 }
