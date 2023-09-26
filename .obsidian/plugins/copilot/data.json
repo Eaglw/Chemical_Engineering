@@ -14,7 +14,7 @@
   "maxTokens": 1000,
   "contextTurns": 3,
   "userSystemPrompt": "",
-  "openAIProxyBaseUrl": "https://localhost:8080/v1",
+  "openAIProxyBaseUrl": "http://127.0.0.1:8080/v1",
   "localAIModel": "llama-2-uncensored-q4ks",
   "ttlDays": 30,
   "stream": true,

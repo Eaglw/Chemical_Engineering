@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2067a764a686f90b",
@@ -165,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +181,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a70b3d53a9ec83fe",
+  "active": "07ec7d5477274c06",
   "lastOpenFiles": [
     "Senza nome.md",
     "Soft Matter/Overview.md",
