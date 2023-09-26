@@ -18,7 +18,7 @@
   "localAIModel": "llama-2-uncensored-q4ks",
   "ttlDays": 30,
   "stream": true,
-  "embeddingProvider": "cohereai",
+  "embeddingProvider": "localai",
   "defaultSaveFolder": "copilot-conversations",
   "debug": false
 }
