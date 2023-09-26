@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Numerical Simulation/Comsol/Geometry.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Numerical Simulation/Comsol/Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Numerical Simulation/Comsol/Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senza nome.md"
+                "file": "Numerical Simulation/Comsol/Geometry.md"
               }
             }
           },
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +180,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "07ec7d5477274c06",
+  "active": "a70b3d53a9ec83fe",
   "lastOpenFiles": [
+    "Senza nome.md",
     "Soft Matter/Overview.md",
     "copilot-conversations/Chat-2023_09_26-19_03_10.md",
-    "Senza nome.md",
     "copilot-conversations",
     "Numerical Simulation/Comsol/Geometry.md",
     "Senza nome",
