@@ -8,8 +8,8 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "defaultModel": "gpt-3.5-turbo-16k",
-  "defaultModelDisplayName": "GPT-3.5 16K",
+  "defaultModel": "gpt-4-32k",
+  "defaultModelDisplayName": "AZURE GPT-4 32K",
   "temperature": 0.7,
   "maxTokens": 1000,
   "contextTurns": 3,
@@ -18,7 +18,7 @@
   "localAIModel": "llama-2-uncensored-q4ks",
   "ttlDays": 30,
   "stream": true,
-  "embeddingProvider": "openai",
+  "embeddingProvider": "localai",
   "defaultSaveFolder": "copilot-conversations",
   "debug": false
 }
