@@ -13,6 +13,21 @@
             "state": {
               "type": "empty",
               "state": {}
+<<<<<<< HEAD
+=======
+            }
+          },
+          {
+            "id": "b6cc45448754b876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rheology/Viscoelasticity.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
             }
           }
         ]
@@ -81,6 +96,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Rheology/Viscoelasticity.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Rheology/Viscoelasticity.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Rheology/Viscoelasticity.md"
+              }
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
             }
           },
           {
@@ -151,6 +180,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
+<<<<<<< HEAD
   "active": "88e42657a87b8532",
   "lastOpenFiles": [
     "Rheology/Viscoelasticity.md",
@@ -160,6 +190,14 @@
     "Pasted image 20230927173307.png",
     "Materials",
     "Soft Matter/Mechanical properties of soft matter.md",
+=======
+  "active": "b6cc45448754b876",
+  "lastOpenFiles": [
+    "Pasted image 20230927173307.png",
+    "Materials",
+    "Soft Matter/Mechanical properties of soft matter.md",
+    "Rheology/Viscoelasticity.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
     "Rheology/Elasticity.md",
     "Rheology/Viscosity.md",
     "viscosity,.md",
@@ -170,6 +208,11 @@
     "Basic concepts/Constitutive equations.md",
     "Basic concepts/Balance equations.md",
     "Basic concepts/Costitutive eq. for Newtornian fluids.md",
+<<<<<<< HEAD
+=======
+    "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
     "Rheology/Rheometers/Most common geometry.md",
     "Mathematical tools/Divergence.md",
     "Basic concepts/Mass balance equation.md",
@@ -180,6 +223,10 @@
     "Numerical Simulation/Comsol/Geometry.md",
     "copilot-conversations/Chat-2023_09_26-19_03_10.md",
     "copilot-conversations",
+<<<<<<< HEAD
+=======
+    "Numerical Simulation/concepts/siuum.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
     "Numerical Simulation/Comsol",
     "Numerical Simulation/concepts",
     "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
