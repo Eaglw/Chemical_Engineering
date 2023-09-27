@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "theme": "system"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "italic-accent"
+  ]
 }
