@@ -2,4 +2,4 @@ Viscoelasticity is the property of materials that exhibit both viscous and elast
 - If the stress is held constant, the strain increases with time(creep)
 - If strain is held constant, the stress decreases with time(relaxation)
 - The effective stiffness depends on the rate of application of the load.
-The [[Maxwell model|Maxwell]] and the [[Kelvin-Voigt model|Voigt]] models are useful to model ideal viscoelastic liquids and solids, respectively. The main difference is that in the Voigt model the maximum deformation is fixed by the spring part, instead in the Maxwell one the dashpot can extends indefinitely. That's why Voigt models viscoelastic solids and Maxwell viscoelastic liquids. 
+The [[Maxwell model|Maxwell]] and the [[Kelvin-Voigt model]]
