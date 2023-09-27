@@ -1,8 +1,5 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "theme": "obsidian",
-  "enabledCssSnippets": [
-    "italic-accent"
-  ]
+  "theme": "obsidian"
 }

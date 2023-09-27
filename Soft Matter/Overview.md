@@ -14,20 +14,3 @@ Also, speciality chemicals' value is a lot higher than the value of the reagents
 If we are dealing with a reactor with micro dimentions, this hypotesys may be not valid. If we use macromolecules like polymers, the dimention of the molecule became relevant in a micro scale, so we can't apply the continuum hypotesis.
 <!--ID: 1695226069320-->
 
-### Shear vs elongational flow: which one has the biggest deformation?
-Talking about colloidal particles in a fluid, every deformation reflects on the particles. 
-The deformation of the particles increases the internal tension of the suspension because the particles are no longer in the configuration that minimize surface tension.
-The [[deformation tensor]] E is symmetrical in the elongational deformation and is composed by a symmetrical and an antisymmetrical part in the shear deformation. The antisymmetrical part is the rotational part. The rotation is rigid, so only the symmetrical part of the tensor produces an effective deformation. 
-That's why the deformation of the colloidal particles is always higher in the case of a elongational deformation.
-<!--ID: 1695826630661-->
-
-
-### Capillarity number
-Is the ratio between viscous stress(shear rate times viscosity) and the surface tension.
-$Ca = \frac{R \cdot \dot \gamma \cdot \eta}{\Gamma}$
-where R is the radius of the particle, $\dot \gamma$ is the shear rate, $\eta$ is the viscosity and $\Gamma$ is the surface stress. $\frac{\Gamma}{R}$ is the surface tension.
-<!--ID: 1695826630662-->
-
-
-
-

@@ -4,24 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "077a6c1d4bf6df75",
+        "id": "a8b767c248ba3920",
         "type": "tabs",
         "children": [
           {
-            "id": "88e42657a87b8532",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6cc45448754b876",
+            "id": "2bf99a8726908249",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rheology/Viscoelasticity.md",
+                "file": "Soft Matter/Overview.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7909df0f625007b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soft Matter/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rheology/Viscoelasticity.md",
+                "file": "Soft Matter/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rheology/Viscoelasticity.md",
+                "file": "Soft Matter/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rheology/Viscoelasticity.md"
+                "file": "Soft Matter/Overview.md"
               }
             }
           },
@@ -149,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,44 +172,34 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b6cc45448754b876",
+  "active": "c7909df0f625007b",
   "lastOpenFiles": [
-    "Pasted image 20230927173307.png",
-    "Materials",
-    "Soft Matter/Mechanical properties of soft matter.md",
-    "Rheology/Viscoelasticity.md",
-    "Rheology/Elasticity.md",
-    "Rheology/Viscosity.md",
-    "viscosity,.md",
-    "Soft Matter/Overview.md",
-    "Species transport equations.md",
-    "Navier-Stokes equations.md",
-    "Energy balance equations.md",
-    "Basic concepts/Constitutive equations.md",
-    "Basic concepts/Balance equations.md",
-    "Basic concepts/Costitutive eq. for Newtornian fluids.md",
-    "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
-    "Rheology/Rheometers/Most common geometry.md",
-    "Mathematical tools/Divergence.md",
-    "Basic concepts/Mass balance equation.md",
-    "Basic concepts/Mach number.md",
-    "Basic concepts/Momentum balance equations.md",
-    "Basic concepts",
-    "Mathematical tools",
-    "Numerical Simulation/Comsol/Geometry.md",
-    "copilot-conversations/Chat-2023_09_26-19_03_10.md",
-    "copilot-conversations",
     "Numerical Simulation/concepts/siuum.md",
-    "Numerical Simulation/Comsol",
+    "Soft Matter/Overview.md",
     "Numerical Simulation/concepts",
     "Numerical Simulation/concepts/Usefulness of numerica simulation in engineering.md",
+    "Rheology/Rheometers/Most common geometry.md",
     "Unit Operation",
     "Numerical Simulation",
     "Napoli.md",
     "Soft Matter",
     "_index.md",
     "Rheology/Photo/Si.png",
-    "Excalidraw"
+    "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.29.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.29.09.excalidraw.md",
+    "Excalidraw/Napoli 2023-05-15 11.20.52.excalidraw.md",
+    "Excalidraw",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Most common geometry 2023-05-15 11.15.15.excalidraw.md",
+    "Rheology/Photo",
+    "Provanza.md",
+    "Provo ora.md",
+    "Forza napoli.md",
+    "Rheology/Rheometers",
+    "Rheology/Polymers",
+    "CBR",
+    "Rheology"
   ]
 }
