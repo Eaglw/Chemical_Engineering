@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23ed2418867385f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constitutive equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic concepts/Balance equations.md",
+                "file": "Constitutive equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic concepts/Balance equations.md",
+                "file": "Constitutive equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic concepts/Balance equations.md"
+                "file": "Constitutive equations.md"
               }
             }
           },
@@ -183,8 +195,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "be3d995940365aca",
+  "active": "23ed2418867385f1",
   "lastOpenFiles": [
+    "Basic concepts/Balance equations.md",
+    "Constitutive equations.md",
     "Energy balance equations.md",
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
@@ -193,7 +207,6 @@
     "Mathematial tools/Divergence.md",
     "Basic concepts/Mass balance equation.md",
     "Basic concepts/Mach number.md",
-    "Basic concepts/Balance equations.md",
     "Basic concepts/Momentum balance equations.md",
     "Basic concepts",
     "Mathematial tools",
