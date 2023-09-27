@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft Matter/Mechanical properties of soft matter.md",
+                "file": "Rheology/Viscoelasticity.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soft Matter/Mechanical properties of soft matter.md",
+                "file": "Rheology/Viscoelasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soft Matter/Mechanical properties of soft matter.md",
+                "file": "Rheology/Viscoelasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soft Matter/Mechanical properties of soft matter.md"
+                "file": "Rheology/Viscoelasticity.md"
               }
             }
           },
@@ -168,10 +168,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "b6cc45448754b876",
+  "active": "4148c0ac7f6fa228",
   "lastOpenFiles": [
-    "viscosity,.md",
     "Soft Matter/Mechanical properties of soft matter.md",
+    "Rheology/Viscoelasticity.md",
+    "Rheology/Elasticity.md",
+    "Rheology/Viscosity.md",
+    "viscosity,.md",
     "Soft Matter/Overview.md",
     "Species transport equations.md",
     "Navier-Stokes equations.md",
@@ -202,10 +205,7 @@
     "_index.md",
     "Rheology/Photo/Si.png",
     "Excalidraw/Drawing 2023-05-16 23.29.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-16 23.29.09.excalidraw.md",
-    "Excalidraw/Napoli 2023-05-15 11.20.52.excalidraw.md",
     "Excalidraw",
-    "conflict-files-obsidian-git.md",
     "Rheology/Photo"
   ]
 }
