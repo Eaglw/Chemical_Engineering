@@ -49,14 +49,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constitutive equations.md",
+                "file": "Basic concepts/Costitutive eq. for Newtornian fluids.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f02db97408986b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Navier-Stokes equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "667ff33491d0b199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy balance equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d91b91053f98178",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constitutive equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Constitutive equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Constitutive equations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +224,15 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "23ed2418867385f1",
+  "active": "0d91b91053f98178",
   "lastOpenFiles": [
-    "Basic concepts/Balance equations.md",
-    "Constitutive equations.md",
+    "Species transport equations.md",
+    "Navier-Stokes equations.md",
     "Energy balance equations.md",
+    "Basic concepts/Constitutive equations.md",
+    "Senza nome.md",
+    "Basic concepts/Balance equations.md",
+    "Basic concepts/Costitutive eq. for Newtornian fluids.md",
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
     "Soft Matter/Overview.md",
@@ -229,9 +262,6 @@
     "Excalidraw",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Most common geometry 2023-05-15 11.15.15.excalidraw.md",
-    "Rheology/Photo",
-    "Provanza.md",
-    "Provo ora.md",
-    "Forza napoli.md"
+    "Rheology/Photo"
   ]
 }
