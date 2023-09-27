@@ -14,7 +14,10 @@
               "type": "empty",
               "state": {}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
             }
           },
           {
@@ -97,6 +100,10 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                "file": "Rheology/Viscoelasticity.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
 =======
                 "file": "Rheology/Viscoelasticity.md",
 >>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
@@ -117,6 +124,10 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                "file": "Rheology/Viscoelasticity.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
 =======
                 "file": "Rheology/Viscoelasticity.md",
 >>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
@@ -181,6 +192,7 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "88e42657a87b8532",
   "lastOpenFiles": [
     "Rheology/Viscoelasticity.md",
@@ -193,10 +205,17 @@
 =======
   "active": "b6cc45448754b876",
   "lastOpenFiles": [
+=======
+  "active": "b6cc45448754b876",
+  "lastOpenFiles": [
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
     "Pasted image 20230927173307.png",
     "Materials",
     "Soft Matter/Mechanical properties of soft matter.md",
     "Rheology/Viscoelasticity.md",
+<<<<<<< HEAD
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
+=======
 >>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
     "Rheology/Elasticity.md",
     "Rheology/Viscosity.md",
@@ -209,6 +228,11 @@
     "Basic concepts/Balance equations.md",
     "Basic concepts/Costitutive eq. for Newtornian fluids.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
 =======
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
@@ -224,6 +248,10 @@
     "copilot-conversations/Chat-2023_09_26-19_03_10.md",
     "copilot-conversations",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "Numerical Simulation/concepts/siuum.md",
+>>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
 =======
     "Numerical Simulation/concepts/siuum.md",
 >>>>>>> parent of ff8ef70 (vault backup: 2023-09-27 22:59:59)
