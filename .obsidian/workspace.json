@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mach number.md",
+                "file": "Basic concepts/Mach number.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mass balance equation.md",
+                "file": "Momentum balance equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mach number.md",
+                "file": "Momentum balance equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mach number.md",
+                "file": "Momentum balance equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mach number.md"
+                "file": "Momentum balance equations.md"
               }
             }
           },
@@ -169,18 +170,20 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2b6d87a545aeb3f1",
+  "active": "6ee5e77ec514f0f6",
   "lastOpenFiles": [
-    "Mass balance equation.md",
-    "Mach number.md",
-    "Divergence.md",
-    "Balance equations.md",
+    "Basic concepts/Balance equations.md",
+    "Momentum balance equations.md",
+    "Basic concepts/Mass balance equation.md",
+    "Basic concepts/Mach number.md",
+    "Basic concepts",
+    "Mathematial tools",
+    "Mathematial tools/Divergence.md",
     "Senza nome.md",
     "Soft Matter/Overview.md",
     "Numerical Simulation/Comsol/Geometry.md",
     "copilot-conversations/Chat-2023_09_26-19_03_10.md",
     "copilot-conversations",
-    "Senza nome",
     "Numerical Simulation/concepts/siuum.md",
     "Numerical Simulation/Comsol",
     "Numerical Simulation/concepts",
@@ -203,7 +206,6 @@
     "Rheology/Photo",
     "Provanza.md",
     "Provo ora.md",
-    "Forza napoli.md",
-    "Rheology/Rheometers"
+    "Forza napoli.md"
   ]
 }
