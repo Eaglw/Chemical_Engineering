@@ -4,7 +4,7 @@
 where:
 - $\rho(x,t)$ is the fluid density function  in $kg \cdot m^{-3}$
 - $\textbf{u}=(u_{x},u_{y},u_{z})$ is the fluid velocity vector in $m \cdot s^{.1}$ 
-- $\nabla \cdot$ is the [[Mathematial tools/Divergence|divergence]] operator in $m^{-1}$
+- $\nabla \cdot$ is the [[Mathematical tools/Divergence|divergence]] operator in $m^{-1}$
 
 The hypotesis to obtain the *microscopic mass balance* or *continuity equation* are:
 1. Homogeneous fluid that moves in the 3D Euclidean space

@@ -1,0 +1,1 @@
+The "softness" of soft matter is related to the low elastic modulus of this materials. The characteristic that causes this softness is in the microstructure: all amorphous soft materials are characterized by a micr

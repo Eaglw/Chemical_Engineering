@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b6cc45448754b876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soft Matter/Mechanical properties of soft matter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Soft Matter/Mechanical properties of soft matter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Soft Matter/Mechanical properties of soft matter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Soft Matter/Mechanical properties of soft matter.md"
+              }
             }
           },
           {
@@ -151,25 +168,25 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "88e42657a87b8532",
+  "active": "4148c0ac7f6fa228",
   "lastOpenFiles": [
+    "Soft Matter/Mechanical properties of soft matter.md",
     "Soft Matter/Overview.md",
     "Species transport equations.md",
     "Navier-Stokes equations.md",
     "Energy balance equations.md",
     "Basic concepts/Constitutive equations.md",
-    "Senza nome.md",
     "Basic concepts/Balance equations.md",
     "Basic concepts/Costitutive eq. for Newtornian fluids.md",
     "Excalidraw/Napoli 2023-05-16 23.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-05-16 23.30.04.excalidraw.md",
     "Rheology/Rheometers/Most common geometry.md",
-    "Mathematial tools/Divergence.md",
+    "Mathematical tools/Divergence.md",
     "Basic concepts/Mass balance equation.md",
     "Basic concepts/Mach number.md",
     "Basic concepts/Momentum balance equations.md",
     "Basic concepts",
-    "Mathematial tools",
+    "Mathematical tools",
     "Numerical Simulation/Comsol/Geometry.md",
     "copilot-conversations/Chat-2023_09_26-19_03_10.md",
     "copilot-conversations",
