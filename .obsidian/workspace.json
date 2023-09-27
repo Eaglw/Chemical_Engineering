@@ -18,27 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a70b3d53a9ec83fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "55556c6c72cd303f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +157,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "55556c6c72cd303f",
+  "active": "b83e9dbe3844f42c",
   "lastOpenFiles": [
     "Soft Matter/Overview.md",
     "Numerical Simulation/Comsol/Geometry.md",
