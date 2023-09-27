@@ -1,0 +1,1 @@
+$\rho c_{P} \frac{\partial T}{\partial t} 
