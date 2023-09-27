@@ -1,1 +1,2 @@
 Viscoelasticity is the property of materials that exhibit both viscous and elastic characteristics when undergoing deformation. Viscous materials, like honey, resist shear flow and strain linearly with time when a stress is applied. Elastic materials strain instantaneously when stretched and just as quickly return to their original state once the stress is removed. Viscoelastic materials have elements of both of these properties and, as such, exhibit time dependent strain.
+
