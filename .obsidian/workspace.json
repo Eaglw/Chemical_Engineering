@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Energy balance equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Energy balance equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Senza nome.md",
+                "file": "Energy balance equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Senza nome.md"
+                "file": "Energy balance equations.md"
               }
             }
           },
@@ -185,7 +185,7 @@
   "active": "be3d995940365aca",
   "lastOpenFiles": [
     "Basic concepts/Momentum balance equations.md",
-    "Senza nome.md",
+    "Energy balance equations.md",
     "Basic concepts/Balance equations.md",
     "Basic concepts/Mass balance equation.md",
     "Basic concepts/Mach number.md",
