@@ -11,5 +11,8 @@ The hypotesis to obtain the *microscopic mass balance* or *conntinuity equation*
 2. Isothermal condition
 
 ## Steady state conditions
-	$\LARGE \nabla \cdot \rho \textbf{u}=0$
-	
+If we add the steady state condition hypotesis we can neglect the time derivative.
+$\LARGE \nabla \cdot \rho \textbf{u}=0$
+## Constant-density fluid
+If we consider a *incompressible* fluid, and for pratical purposes any fluid with [[Mach number]] much lower that 1, we obtain: 
+$\LARGE \nabla \cdot \textbf{u}=0$
