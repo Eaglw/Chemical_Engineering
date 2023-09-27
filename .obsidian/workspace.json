@@ -23,16 +23,22 @@
             "id": "a70b3d53a9ec83fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "55556c6c72cd303f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Numerical Simulation/Comsol/Geometry.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.14"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical Simulation/Comsol/Geometry.md",
+                "file": "Soft Matter/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numerical Simulation/Comsol/Geometry.md",
+                "file": "Soft Matter/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical Simulation/Comsol/Geometry.md"
+                "file": "Soft Matter/Overview.md"
               }
             }
           },
@@ -151,17 +157,8 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "07ec7d5477274c06",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,13 +176,13 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "07ec7d5477274c06",
+  "active": "55556c6c72cd303f",
   "lastOpenFiles": [
-    "Senza nome.md",
     "Soft Matter/Overview.md",
+    "Numerical Simulation/Comsol/Geometry.md",
+    "Senza nome.md",
     "copilot-conversations/Chat-2023_09_26-19_03_10.md",
     "copilot-conversations",
-    "Numerical Simulation/Comsol/Geometry.md",
     "Senza nome",
     "Numerical Simulation/concepts/siuum.md",
     "Numerical Simulation/Comsol",
