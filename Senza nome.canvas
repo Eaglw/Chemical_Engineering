@@ -1,9 +1,22 @@
 {
 	"nodes":[
-		{"id":"d8f46852a492ff62","x":-35,"y":470,"width":395,"height":310,"type":"file","file":"Basic concepts/Balance equations.md"},
-		{"id":"3838fcdbd14bf72b","x":-31,"y":120,"width":388,"height":206,"type":"file","file":"Basic concepts/Mass balance equation.md"}
+		{"id":"d8f46852a492ff62","type":"file","file":"Basic concepts/Balance equations.md","x":-35,"y":470,"width":395,"height":310,"color":"1"},
+		{"id":"3838fcdbd14bf72b","type":"file","file":"Basic concepts/Mass balance equation.md","x":-31,"y":120,"width":388,"height":206},
+		{"id":"d53680063b3cb72e","type":"file","file":"Basic concepts/Momentum balance equations.md","x":520,"y":126,"width":400,"height":200},
+		{"id":"67bd3606d40236d9","type":"file","file":"Energy balance equations.md","x":-560,"y":120,"width":400,"height":240},
+		{"id":"2ee4fd21afa07896","type":"file","file":"Species transport equations.md","x":-680,"y":780,"width":400,"height":183},
+		{"id":"b5afafa1e6bf2773","x":240,"y":-240,"width":400,"height":160,"type":"file","file":"Basic concepts/Constitutive equations.md"},
+		{"id":"31869c4beea37ddd","x":240,"y":-520,"width":400,"height":120,"type":"file","file":"Basic concepts/Costitutive eq. for Newtornian fluids.md"},
+		{"id":"bd06a92aa1835d92","x":-280,"y":-520,"width":400,"height":120,"type":"file","file":"Navier-Stokes equations.md"}
 	],
 	"edges":[
-		{"id":"f7cd099a861b6949","fromNode":"d8f46852a492ff62","fromSide":"top","toNode":"3838fcdbd14bf72b","toSide":"bottom"}
+		{"id":"f7cd099a861b6949","fromNode":"d8f46852a492ff62","fromSide":"top","toNode":"3838fcdbd14bf72b","toSide":"bottom"},
+		{"id":"18a51218919b74eb","fromNode":"d8f46852a492ff62","fromSide":"right","toNode":"d53680063b3cb72e","toSide":"bottom"},
+		{"id":"e803eac6e10afdf1","fromNode":"d8f46852a492ff62","fromSide":"left","toNode":"67bd3606d40236d9","toSide":"bottom"},
+		{"id":"087337f3eaf3bbc0","fromNode":"d8f46852a492ff62","fromSide":"left","toNode":"2ee4fd21afa07896","toSide":"right"},
+		{"id":"03e6176be33cedab","fromNode":"3838fcdbd14bf72b","fromSide":"top","toNode":"b5afafa1e6bf2773","toSide":"bottom"},
+		{"id":"fb6dddd197c1b3d5","fromNode":"d53680063b3cb72e","fromSide":"top","toNode":"b5afafa1e6bf2773","toSide":"bottom"},
+		{"id":"63a753c5ff1d6580","fromNode":"b5afafa1e6bf2773","fromSide":"top","toNode":"31869c4beea37ddd","toSide":"bottom"},
+		{"id":"ee1554514be35d8c","fromNode":"31869c4beea37ddd","fromSide":"left","toNode":"bd06a92aa1835d92","toSide":"right"}
 	]
 }
