@@ -14,4 +14,8 @@ where:
 
 This formula is valid for a [[Newtonian fluid|newtonian fluid]] and relates the [[Stress tensor|stress tensor]] components to other unknowns already present in the mass and momentum balance, in order to close the system.
 In a more compact form, we can express the constitutive equation as:
-$\textbf{T} = -p \textbf{I} + \sig$ 
+$\LARGE \textbf{T} = -p \textbf{I} + \boldsymbol{\sigma}$ 
+- The pressure term is called *isotropic* and is always present, even under quiescent conditions, his value is the *hydrostatic pressure*.
+- The term $\boldsymbol{\sigma} = 2 \eta \textbf{D} + \left(\kappa - \frac{2}{3} \eta \right) ( \nabla \cdot \textbf{u} ) \textbf{I}$ is called *deviatoric* and is present only when the fluid flows. 
+The flow mentioned is a relative flow between the layers of the fluid, because the absolute value of velocity is irrelevant for the stress evaluation. 
+
