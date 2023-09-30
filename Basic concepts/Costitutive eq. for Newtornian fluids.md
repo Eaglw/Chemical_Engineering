@@ -20,6 +20,6 @@ $\LARGE \textbf{T} = -p \textbf{I} + \boldsymbol{\sigma}$
 The flow mentioned is a relative flow between the layers of the fluid, because the absolute value of velocity is irrelevant for the stress evaluation. 
 ## Incompressible Newtonian fluid under isothermal condition
 Given the mass balance expression for a [[Basic concepts/Mass balance equation#^c884c2|incompressible fluid]]:
-$\textbf{T} = -p \textbf{I} + 2 \eta \textbf{D}$
+$\textbf{T} = -p \textbf{I} + 2 \eta \textbf{D}$ ^ccb40f
 
 
