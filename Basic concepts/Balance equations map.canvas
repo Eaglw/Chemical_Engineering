@@ -3,11 +3,11 @@
 		{"id":"d8f46852a492ff62","type":"file","file":"Basic concepts/Balance equations.md","x":-35,"y":470,"width":395,"height":310,"color":"1"},
 		{"id":"3838fcdbd14bf72b","type":"file","file":"Advanced Transport Phenomena/Mass balance equation.md","x":-31,"y":120,"width":388,"height":206},
 		{"id":"d53680063b3cb72e","type":"file","file":"Advanced Transport Phenomena/Momentum balance equations.md","x":520,"y":126,"width":400,"height":200},
-		{"id":"67bd3606d40236d9","type":"file","file":"Energy balance equations.md","x":-560,"y":120,"width":400,"height":240},
+		{"id":"67bd3606d40236d9","type":"file","file":"Energy balance equations.md","x":-920,"y":120,"width":760,"height":240},
 		{"id":"2ee4fd21afa07896","type":"file","file":"Species transport equations.md","x":-680,"y":780,"width":400,"height":183},
-		{"id":"b5afafa1e6bf2773","x":240,"y":-240,"width":400,"height":160,"type":"file","file":"Basic concepts/Constitutive equations.md"},
-		{"id":"31869c4beea37ddd","x":240,"y":-520,"width":400,"height":120,"type":"file","file":"Basic concepts/Costitutive eq. for Newtornian fluids.md"},
-		{"id":"bd06a92aa1835d92","x":-280,"y":-520,"width":400,"height":120,"type":"file","file":"Advanced Transport Phenomena/Navier-Stokes equations.md"}
+		{"id":"b5afafa1e6bf2773","type":"file","file":"Basic concepts/Constitutive equations.md","x":240,"y":-240,"width":400,"height":160},
+		{"id":"31869c4beea37ddd","type":"file","file":"Basic concepts/Costitutive eq. for Newtornian fluids.md","x":240,"y":-520,"width":400,"height":180},
+		{"id":"bd06a92aa1835d92","type":"file","file":"Advanced Transport Phenomena/Navier-Stokes equations.md","x":-360,"y":-520,"width":480,"height":220}
 	],
 	"edges":[
 		{"id":"f7cd099a861b6949","fromNode":"d8f46852a492ff62","fromSide":"top","toNode":"3838fcdbd14bf72b","toSide":"bottom"},
