@@ -19,7 +19,7 @@ $\LARGE \textbf{T} = -p \textbf{I} + \boldsymbol{\sigma}$
 - The term $\boldsymbol{\sigma} = 2 \eta \textbf{D} + \left(\kappa - \frac{2}{3} \eta \right) ( \nabla \cdot \textbf{u} ) \textbf{I}$ is called *deviatoric* and is present only when the fluid flows. 
 The flow mentioned is a relative flow between the layers of the fluid, because the absolute value of velocity is irrelevant for the stress evaluation. 
 ## Incompressible Newtonian fluid under isothermal condition
-Given the mass balance expression for a [[Basic concepts/Mass balance equation#^c884c2|incompressible fluid]]:
+Given the mass balance expression for a [[Advanced Transport Phenomena/Mass balance equation#^c884c2|incompressible fluid]]:
 $\textbf{T} = -p \textbf{I} + 2 \eta \textbf{D}$ ^ccb40f
 
 
