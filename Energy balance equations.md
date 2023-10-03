@@ -14,8 +14,12 @@ where:
 6. The sixth is the *energy generation* term and S is the *specific generation of thermal energy* in $\frac{J}{m^{3}s}$
 
 The energy balance is a scalar equation. 
-The conductive term can be modelled through the [[Fourier constitutive equation|Fourier constitutive equation]] 
-	$\textbf{q} = -k \nabla T$
+The conductive term can be modelled through the [[Basic concepts/Fourier constitutive equation|Fourier constitutive equation]] 
+
+If the fluid is a *multicomponent mixture* the conductive heat flux becomes:
+$\LARGE \textbf{q} = -k \nabla T + \sum_{i=1}^{N} h_{i} \boldsymbol{j_{$ 
+
+
 
 
 
