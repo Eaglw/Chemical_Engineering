@@ -24,6 +24,8 @@ where:
 
 For a *newtonian fluid* we can use the deviatoric part of it's [[Basic concepts/Costitutive eq. for Newtornian fluids|constitutive equation]] in the viscous dissipation term:
 
+$\LARGE \boldsymbol{\sigma} : \nabla \textbf{u} = \frac{1}{2} \eta \sum_{j} \sum_{i} \left( \frac{\partial u_{i}}{\partial x_{j}} + \frac{\partial u_{j}}{\partial x_{i}} \right)^{2} + \left(  \kappa -\frac{2}{3} \eta  \right)\left( \nabla \cdot \textbf{u} \right)^{2} = \eta \Phi_{v} + \left(  \kappa -\frac{2}{3} \eta  \right)\left( \nabla \cdot \textbf{u} \right)^{2}$ where:
+$\Phi_{v}= 
 
 
 
