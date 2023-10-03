@@ -14,7 +14,8 @@ where:
 6. The sixth is the *energy generation* term and S is the *specific generation of thermal energy* in $\frac{J}{m^{3}s}$
 
 The energy balance is a scalar equation. 
-
+The conductive term can be modelled through the [[Fourier constitutive equation|Fourier constitutive equation]] 
+	$\textbf{q} = -k \nabla T$
 
 
 
