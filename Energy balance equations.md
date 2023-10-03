@@ -14,6 +14,8 @@ where:
 6. The sixth is the *energy generation* term and S is the *specific generation of thermal energy* in $\frac{J}{m^{3}s}$
 
 The energy balance is a scalar equation. 
+
+---
 The conductive term can be modelled through the [[Basic concepts/Fourier constitutive equation|Fourier constitutive equation]] 
 
 If the fluid is a *multicomponent mixture* the conductive heat flux becomes:
@@ -29,10 +31,11 @@ $\Phi_{v}= \frac{1}{2}\sum_{j} \sum_{i} \left( \frac{\partial u_{i}}{\partial x_
 so we have:
 $\LARGE \rho c_{P} \left(  \frac{\partial T}{\partial t} +  \textbf{u} \cdot \nabla T \right) =\nabla \cdot \left(k \nabla T \right) + \eta \Phi_{v} + \left(  \kappa -\frac{2}{3} \eta  \right)\left( \nabla \cdot \textbf{u} \right)^{2} - \frac{\partial ln \rho}{\partial ln T} \bigg|_{p} \left(\frac{\partial p}{\partial t}+\textbf{u} \cdot \nabla p \right) + S$
 for [[Ideal gas|ideal gasses]] (that are newtonian) $\kappa = 0$ and $\frac{\partial ln \rho}{\partial ln T} \bigg|_{p} = -1$:
-$\LARGE \rho c_{P} \left(  \frac{\partial T}{\partial t} +  \textbf{u} \cdot \nabla T \right) =\nabla \cdot \left(k \nabla T \right) + \eta \Phi_{v} + -\frac{2}{3} \eta \left( \nabla \cdot \textbf{u} \right)^{2} + \left(\frac{\partial p}{\partial t}+\textbf{u} \cdot \nabla p \right) + S$ 
+$\LARGE \rho c_{P} \left(  \frac{\partial T}{\partial t} +  \textbf{u} \cdot \nabla T \right) =\nabla \cdot \left(k \nabla T \right) + \eta \Phi_{v} - \frac{2}{3} \eta \left( \nabla \cdot \textbf{u} \right)^{2} + \left(\frac{\partial p}{\partial t}+\textbf{u} \cdot \nabla p \right) + S$ 
 for *incompressible* fluids $\nabla \cdot \textbf{u} = 0$ and $\frac{\partial ln \rho}{\partial ln T} \bigg|_{p} =0$:
-\LARGE \rho c_{P} \left(  \frac{\partial T}{\partial t} +  \textbf{u} \cdot \nabla T \right) =\nabla \cdot \left(k \nabla T \right) + \eta \Phi_{v} + -\frac{2}{3} \eta \left( \nabla \cdot \textbf{u} \right)^{2} + \left(\frac{\partial p}{\partial t}+\textbf{u} \cdot \nabla p \right) + S
+$\LARGE \rho c_{P} \left(  \frac{\partial T}{\partial t} +  \textbf{u} \cdot \nabla T \right) =\nabla \cdot \left(k \nabla T \right) + \eta \Phi_{v} + S$
 
-
+for solids, $\textbf{u}=0, \frac{\partial ln \rho}{\partial ln T} \bigg|_{p} =0$:
+$\LARGE \rho c_{P} \frac{\partial T}{\partial t} =\nabla \cdot \left(k \nabla T \right) + S$ 
 
 
