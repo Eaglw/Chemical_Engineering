@@ -1,3 +1,7 @@
+---
+tags:
+  - Memes
+---
 >[!important]
 >$\LARGE Ca = \frac{R \cdot \dot \gamma \cdot \eta}{\Gamma}$
 >
