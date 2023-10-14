@@ -5,4 +5,6 @@ Linear response implies that the *microstructure* of the material *at equilibriu
 We can assume linearity for small deformation as a universal behaviour because in a equilibrium state the [[Gibbs free energy|Gibbs free energy]] is in a minimum, and the surroundings of that minimum have always a parabolic shape. 
 The force required to displace the material from it's free-energy minimum is the *derivative of the free energy*, and so if the profile is parabolic, the derivative is linear.
 The only things that differ from one material to another in the linear regime are the proportionality constants. 
+### General rule to estabilish if the response is linear
+If the cause of microstructure perturbation(for example [[Thermal motion|thermal agitation]] or attraction among similar molecules) is slower than [[Relaxation time|relaxation]], then the microstructure remains at equilibrium, and the response is linear. It's non linear otherwise. *The faster process prevails and determinate the response.*
 

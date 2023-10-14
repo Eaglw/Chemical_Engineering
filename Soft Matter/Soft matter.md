@@ -5,5 +5,5 @@ At least one of the elements must be on a *mesoscopic length scale*, so above th
 ### Consequences of the structure of soft matter
 There are 3 main consequences of the presence of connected polyatomic structures.
 - [[Soft Matter/Mechanical properties of soft matter|Mechanical properties of soft matter]] 
-- Large and nonlinear response: non [[Soft Matter/Linear response|linear response]] that is higher than the force applied.
+- Large and nonlinear response: non [[Rheology/Linear response|linear response]] that is higher than the force applied.
 - Higher relaxation times: characteristic [[Relaxation time|relaxation time]] of simple liquids is near $10^{-9} s$ while the soft matter's one can be $1$ - $10^4$ s. 
