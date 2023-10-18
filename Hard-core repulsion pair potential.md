@@ -4,6 +4,3 @@ Given its mathematical nature it's problematic to use for the presence of the in
 
 
 
-|Gas| $\LARGE \eta$|$\LARGE \sigma$|A|B|$r_{e}$|
-|---|---|---|---|---|---|
-|Xeon(Xe)|1.77 kJ/mol|
