@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "media"
 }
