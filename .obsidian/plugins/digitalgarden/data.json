@@ -28,14 +28,14 @@
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
     "dgHomeLink": true,
-    "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
-    "dgShowLocalGraph": false,
-    "dgShowInlineTitle": false,
-    "dgShowFileTree": false,
-    "dgEnableSearch": false,
-    "dgShowToc": false,
-    "dgLinkPreview": false,
-    "dgShowTags": false
+    "dgPassFrontmatter": true,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
+    "dgShowTags": true
   }
 }

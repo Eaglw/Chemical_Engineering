@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >[!important]
 >$\LARGE Ma=\frac{U}{U_{s}}$
 
