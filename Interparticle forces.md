@@ -13,8 +13,7 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
 
-The *repulsive* interaction can be of [[Hard-core repulsion pair potential|hard-core nature]] or [[Coulombic forces|electrostatic nature]]. Instead the **
-
+The *repulsive* interaction can be of [[Hard-core repulsion pair potential|hard-core nature]] or [[Coulombic forces|electrostatic nature]]. Instead the *[[Attraction forces between molecules| attractive]]* ones can be of different natures.
 They can be often modelled as a [[Pair potential|pair potential]].
 ### Which is the effect of the presence of the solvent in the interparticle forces?
 
