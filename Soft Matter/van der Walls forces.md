@@ -1,0 +1,1 @@
+van der Walls forces are a class of forces between molecules or particles mainly attractive, but also repulsive in a particular case.
