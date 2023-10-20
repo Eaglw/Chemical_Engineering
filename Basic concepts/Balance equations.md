@@ -7,4 +7,4 @@ The general structure of balance equations is:
 - ﻿﻿IN, OUT represent inlet and outlet in time of the quantity of interest through the boundaries of the control volume.
 - ﻿﻿GEN represents generation (or disappearance) in time of the quantity of interest within the control volume.
 
-Few examples of balance equations can be [[Advanced Transport Phenomena/Mass balance equation|mass]], [[Advanced Transport Phenomena/Momentum balance equations|momentum]], [[Advanced Transport Phenomena/Energy balance equations|energy]] and [[Soft Matter/Species transport equations|species transport]] equations. 
+Few examples of balance equations can be [[Advanced Transport Phenomena/Mass balance equation|mass]], [[Advanced Transport Phenomena/Momentum balance equations|momentum]], [[Advanced Transport Phenomena/Energy balance equations|energy]] and [[Advanced Transport Phenomena/Species transport equations|species transport]] equations. 
