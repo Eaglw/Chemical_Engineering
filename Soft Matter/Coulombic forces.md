@@ -1,5 +1,5 @@
 It's the strongest force between 2 particles.
-With simple comparison for a particle of atomic size, at $T_{amb}$, we can see that the electrostatic potential interat
+With simple comparison for a particle of atomic size, at $T_{amb}$, we can see that the electrostatic potential interaction is 200 times stronger than the [[Soft Matter/Thermal energy|thermal energy]] 
 ## Electric field expression:
 $\LARGE E_{1}=\frac{Q_{1}}{4 \pi \epsilon_{0}\epsilon r^{2}} \quad [\frac{V}{m}]$ 
 where:

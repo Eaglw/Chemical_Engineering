@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### Differences between classical and speciality chemicals
 

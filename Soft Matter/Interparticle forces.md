@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 There are various interparticle forces that become relevant in the field of [[Soft Matter/Soft matter|Soft matter]]. 
-The fundamental unit of energy in the colloidal and molecular world is given by the [[Thermal energy|thermal energy]], that is useful to scale all the other forces that can exist in a system.
+The fundamental unit of energy in the colloidal and molecular world is given by the [[Soft Matter/Thermal energy|thermal energy]], that is useful to scale all the other forces that can exist in a system.
 ### Comparison of the modulus of thermal energy, gravity and drag forces, with conseguences
 | Particle size | Thermal agitation | Gravity | Drag |
 |---| ---|---|---|
@@ -13,7 +13,7 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
 
-The *repulsive* interaction can be of [[Hard-core repulsion pair potential|hard-core nature]] or [[Coulombic forces|electrostatic nature]]. Instead the *[[Attraction forces between molecules|attractive]]* ones can be of different natures.
-They can be often modelled as a [[Pair potential|pair potential]].
+The *repulsive* interaction can be of [[Soft Matter/Hard-core repulsion pair potential|hard-core nature]] or [[Soft Matter/Coulombic forces|electrostatic nature]]. Instead the *[[Soft Matter/Attraction forces between molecules|attractive]]* ones can be of different natures.
+They can be often modelled as a [[Soft Matter/Pair potential|pair potential]].
 ### Which is the effect of the presence of the solvent in the interparticle forces?
 
