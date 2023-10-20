@@ -2,5 +2,5 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "Helper/media"
 }
