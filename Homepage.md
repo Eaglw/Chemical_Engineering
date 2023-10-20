@@ -7,5 +7,6 @@ I've always struggled to find a way to link all the informations that we learn e
 Not all the courses are covered at the moment, nor they will be in future, because the main focus will be on all the exams that are more relevant to the product engineering.
 Obviously there will be some reference to general concepts and mathematical tools when needed.
 # Courses covered
-[[Soft Matter/Soft matter|Soft matter]]
-[[Rheo]]
+[[Soft Matter course cover|Soft Matter]]
+[[Rheology course cover|Rheology]]
+[[ATP course cover|Advanced Transport Phenomena]]

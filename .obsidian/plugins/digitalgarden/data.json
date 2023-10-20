@@ -5,7 +5,7 @@
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"Brutalism\",\"author\":\"abrahambahez\",\"repo\":\"abrahambahez/Brutalism\",\"screenshot\":\"brutalism_dark.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/abrahambahez/Brutalism/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Minimal\",\"author\":\"kepano\",\"repo\":\"kepano/obsidian-minimal\",\"screenshot\":\"dark-simple.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kepano/obsidian-minimal/HEAD/theme.css\"}",
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
   "siteName": "wiki",
