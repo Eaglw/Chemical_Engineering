@@ -13,7 +13,8 @@ Are long-range forces, with an effective distance range between 0.2 nm to 10 nm.
 The magnitude of interaction depends on:
 - *Distance* between molecules
 - *Polarizability* - If molecules are easily polarized the interaction is stronger
-- *Ionization potential* - 
+- *Ionization potential* - larger atoms or molecules have valence electrons farther from the nuclei, so it's easier to form temporary dipoles.
+So larger and heavier atoms usually exhibits stronger dispersion forces than sma
 # Debye forces
 Caused by the interaction between a *permanent dipole* and a *temporary dipole*.
 This attractive force occurs when a polar molecule induces a dipole moment in an initially nonpolar molecule. The strength of this attraction is directly proportional to the polarizability of the molecule, which, in turn, is linked to its dimensions.
