@@ -15,8 +15,7 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
 
-The *repulsive* interaction can be of [[Soft Matter/Hard-core repulsion pair potential|hard-core nature]] or [[Soft Matter/Coulombic forces|electrostatic nature]]. Instead the *attractive* ones can be of different natures.
-
+The *repulsive* interaction can be of [[Soft Matter/Hard-core repulsion pair potential|hard-core nature]] or [[Soft Matter/Coulombic forces|electrostatic nature]]. Instead the *attractive* ones can be of different natures:
 ### Which attraction forces can we find within atomic distances?
 In the atomic scale we can fine chemical bonds and Lewis acid-based attractions.
 ### Which attraction forces can we find beyond bond-forming distances?
