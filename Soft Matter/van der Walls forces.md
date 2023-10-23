@@ -3,6 +3,9 @@ Van der Waals forces represent a class of intermolecular forces that encompass b
 SLIDE 23 24 26
 Van der Waals forces can be categorized into three distinct types:
 # London dispersion forces
+
+^87bff2
+
 These forces result from the formation of *temporary dipole* moments in molecules due to fluctuations in electron distribution. Although they are the weaker force in a vacuum, they play a crucial role in interactions between nonpolar molecules, such as methane or noble gases.
 # Debye forces
 Caused by the interaction between a *permanent dipole* and a *temporary dipole*.
