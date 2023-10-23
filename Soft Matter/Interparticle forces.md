@@ -32,7 +32,7 @@ The most relevants are the [[Soft Matter/Coulombic forces|Coulombic forces]] and
 
 ### Which is the effect of the presence of the *solvent* in the interparticle forces?
 Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
-The 
+The presence of a suspending medium does more than simply reduce the interaction energy or force. The intrinsic dipole moment and polarizability of an isolated gas molecule may be different in the liquid state or when dissolved in a medium, in fact, a dissolved molecule can move only by displacing an equal volume of solvent from its path.
 
 # Electrostatic interactions
 
