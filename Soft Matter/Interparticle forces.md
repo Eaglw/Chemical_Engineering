@@ -32,6 +32,7 @@ The most relevants are the [[Soft Matter/Coulombic forces|Coulombic forces]] and
 
 ### Which is the effect of the presence of the solvent in the interparticle forces?
 
+
 # Electrostatic interactions
 
 # DLVO theory
