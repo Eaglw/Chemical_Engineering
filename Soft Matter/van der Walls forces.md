@@ -1,16 +1,13 @@
-Van der Waals forces represent a class of intermolecular forces that encompass both attractive and, in specific cases, repulsive interactions between molecules or particles. These forces exhibit anisotropy, meaning their magnitude depends on the relative orientation of the interacting molecules. In systems where [[Thermal motion|thermal motion]], as observed in gaseous or liquid states, is prevalent, the electrostatic force between molecules experiences a significant reduction as the molecules continuously undergo rotational motion.
+Van der Waals forces represent a class of intermolecular forces that encompass both attractive and, in specific cases, repulsive interactions between molecules or particles. These forces exhibit anisotropy, meaning their magnitude depends on the relative orientation of the interacting molecules. In systems where [[Thermal motion|thermal motion]], as observed in *gaseous or liquid states*, is prevalent, the electrostatic force between molecules experiences a significant reduction as the molecules continuously undergo rotational motion.
 # Dipole momentum
 To understand the nature of the van der Walls forces is useful to introduce the *Dipole momentum.* It's a measure of the separation of positive and negative electrical charges within a system. 
 $\LARGE u= ql \quad [Cm]$ where $\LARGE 1 Debye=1D=3.336*10^{30} Cm$ 
-An object with an electric dip
-
+An object with an electric dipole moment is subject to a torque $\tau=u \times E$(for a uniform E in space) when placed in an external electric field.
 
 Van der Waals forces can be categorized into three distinct types:
 # London dispersion forces
-
-^87bff2
-
 These forces result from the formation of *temporary dipole* moments in molecules due to fluctuations in electron distribution. Although they are the weaker force in a vacuum, they play a crucial role in interactions between nonpolar molecules, such as methane or noble gases.
+^87bff2
 # Debye forces
 Caused by the interaction between a *permanent dipole* and a *temporary dipole*.
 This attractive force occurs when a polar molecule induces a dipole moment in an initially nonpolar molecule. The strength of this attraction is directly proportional to the polarizability of the molecule, which, in turn, is linked to its dimensions.
