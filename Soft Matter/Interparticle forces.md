@@ -30,8 +30,9 @@ The most relevants are the [[Soft Matter/Coulombic forces|Coulombic forces]] and
 
 
 
-### Which is the effect of the presence of the solvent in the interparticle forces?
-
+### Which is the effect of the presence of the *solvent* in the interparticle forces?
+Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
+The 
 
 # Electrostatic interactions
 
