@@ -1,4 +1,10 @@
 Van der Waals forces represent a class of intermolecular forces that encompass both attractive and, in specific cases, repulsive interactions between molecules or particles. These forces exhibit anisotropy, meaning their magnitude depends on the relative orientation of the interacting molecules. In systems where [[Thermal motion|thermal motion]], as observed in gaseous or liquid states, is prevalent, the electrostatic force between molecules experiences a significant reduction as the molecules continuously undergo rotational motion.
+
+
+
+
+
+
 Van der Waals forces can be categorized into three distinct types:
 ## London dispersion forces
 These forces result from the formation of *temporary dipole* moments in molecules due to fluctuations in electron distribution. Although they are the weaker force in a vacuum, they play a crucial role in interactions between nonpolar molecules, such as methane or noble gases.
