@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "Template/new basic.md"
+      "template": "Helper/Template/new basic.md"
     }
   ],
   "syntax_highlighting": true,
