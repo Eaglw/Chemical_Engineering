@@ -16,7 +16,7 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 where $a$ is the characteristic dimension of the particle.
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
 # Modelling approaches
-There are two approaches to understand the dispersion force attraction between particles and, although the *Lifshitz continuum description* is more reliable, a simpler one is the *molecular model* of the [[Hamaker theory|Hamaker theory]]. He calculate the total attraction between particles summing 
+There are two approaches to understand the dispersion force attraction between particles and, although the *Lifshitz continuum description* is more reliable, a simpler one is the *molecular model* of the [[Hamaker theory|Hamaker theory]]. He calculate the total attraction between particles summing the contributions of all pairs of particles.
 The interactions can be often modelled as a [[Soft Matter/Pair potential|pair potential]], and can be *repulsive* like [[Soft Matter/Hard-core repulsion pair potential|hard-core repulsion]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]], or *attractive*. The attractive ones can be of different natures:
 ### Which attraction forces can we find within atomic distances?
 In the atomic scale we can fine chemical bonds and Lewis acid-based attractions.
