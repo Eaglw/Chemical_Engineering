@@ -16,10 +16,12 @@ where $\Lambda_{12}$ is the London constant that depends on:
 - *Polarizability* - If molecules are easily polarized the interaction is stronger
 - *Ionization potential* - larger atoms or molecules have valence electrons farther from the nuclei, so it's easier to form temporary dipoles.
 So larger and heavier atoms usually exhibits stronger dispersion forces than smaller and lighter ones.
+
+
 ### Debye forces 
 Caused by the interaction between a *permanent dipole* and a *temporary dipole*.
 This attractive force occurs when a polar molecule induces a dipole moment in an initially nonpolar molecule. The strength of this attraction is directly proportional to the polarizability of the molecule, which, in turn, is linked to its dimensions.
-#### Interaction between an ion and uncharged molecule
+### Interaction between an ion and uncharged molecule
 A molecule of polarizability $\alpha$ at a distance r from an ion of charge $ze$ feels and electric field $E= \frac{ze}{4\pi \epsilon_{0}\epsilon r^{2}}$, that induces a dipole moment:
 $\Large u_{i}= \alpha E= \frac{\alpha ze}{4\pi \epsilon_{0}\epsilon r^{2}}$ 
 This results in an attractive force between the ion and the molecule.
