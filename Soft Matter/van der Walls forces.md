@@ -9,7 +9,11 @@ Van der Waals forces can be categorized into three distinct types:
 These forces result from the formation of *temporary dipole* moments in molecules due to fluctuations in electron distribution. Although they are the weaker force in a vacuum, they play a crucial role in interactions between nonpolar molecules, such as methane or noble gases. These dispersion forces are general and omnipresent, like gravity forces, and plays a role in many physical phenomena. 
 ^87bff2
 ## London forces for molecules
-Are long-range forces, with an effective distance range between 0.2 nm to 10 nm. They doesn't follow a simple power law. They tend to align or orient molecules(with a weak effect). The dispersion force between similar molecules
+Are long-range forces, with an effective distance range between 0.2 nm to 10 nm. They doesn't follow a simple power law. They tend to align or orient molecules(with a weak effect). The dispersion force between similar molecules are always attractive, while between dissimilar molecules can be attractive or repulsive. They are much reduced in a solvent medium.
+The magnitude of interaction depends on:
+- *Distance* between molecules
+- *Polarizability* - If molecules are easily polarized the interaction is stronger
+- *Ionization potential* - 
 # Debye forces
 Caused by the interaction between a *permanent dipole* and a *temporary dipole*.
 This attractive force occurs when a polar molecule induces a dipole moment in an initially nonpolar molecule. The strength of this attraction is directly proportional to the polarizability of the molecule, which, in turn, is linked to its dimensions.
