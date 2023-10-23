@@ -3,7 +3,7 @@ dg-publish: true
 tags:
   - maintopic
 ---
-There are various interparticle forces that become relevant in the field of [[Soft Matter/Soft matter|Soft matter]]. 
+There are various interparticle forces that become relevant in the field of [[Soft Matter/Soft matter|Soft matter]].
 The fundamental unit of energy in the colloidal and molecular world is given by the [[Soft Matter/Thermal energy|thermal energy]], that is useful to scale all the other forces that can exist in a system.
 ### Comparison of the modulus of thermal energy, gravity and drag forces, with conseguences
 | Particle size | Thermal agitation | Gravity | Drag |
@@ -21,5 +21,6 @@ In the atomic scale we can fine chemical bonds and Lewis acid-based attractions.
 ### Which attraction forces can we find beyond bond-forming distances?
 The most relevants are the [[Soft Matter/Coulombic forces|Coulombic forces]] and the [[Soft Matter/van der Walls forces|van der Walls forces]], with the London(dispersion) forces being the main ones between the van der Walls forces.
 
+The van der Walls forces are based on the electric dipole of molecules, so it's useful to define the [[]]
 ### Which is the effect of the presence of the solvent in the interparticle forces?
 
