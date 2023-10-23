@@ -23,7 +23,7 @@ This attractive force occurs when a polar molecule induces a dipole moment in an
 A molecule of polarizability $\alpha$ at a distance r from an ion of charge $ze$ feels and electric field $E= \frac{ze}{4\pi \epsilon_{0}\epsilon r^{2}}$, that induces a dipole moment:
 $\Large u_{i}= \alpha E= \frac{\alpha ze}{4\pi \epsilon_{0}\epsilon r^{2}}$ 
 This results in an attractive force between the ion and the molecule.
-#### Interaction bewteen Polar and Unpolar molecules
-Conceptually similar to the previous case, but the polarization is cause by a polar molecule. Generally speaking, this interaction is not strong enough to mutually orient the molecules
+## Interaction bewteen Polar and Unpolar molecules
+Conceptually similar to the previous case, but the polarization is cause by a polar molecule. Generally speaking, this interaction is not strong enough to mutually orient the molecules.
 ### Keesom forces 
 These forces, also known as dipole-dipole interactions, are attractive forces that occur when *permanent dipoles* (polar molecules) align themselves in such a way that the positive pole of one molecule is oriented towards the negative pole of an adjacent molecule in close proximity.  *Hydrogen bonding* represents an extreme form of these interactions. The average energy of dipole-dipole forces is about 4 kJ/mole, much weaker compared to covalent bonds (around 400 kJ/mole).
