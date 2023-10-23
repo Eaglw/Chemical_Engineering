@@ -3,6 +3,7 @@ They can be split into 3 categories.
 ## London dispersion forces
 Caused by the formation of *temporary dipole* in molecules. In void they are the weaker forces, but they are still the main forces between non polar molecules like methan or noble gas.
 ## Debye forces
-Cause by the interaction between a *permanent dipole* and a *temporary dipole*
+Cause by the interaction between a *permanent dipole* and a *temporary dipole*.
+The polar molecule polarizes an apolar molecule
 
 ## Keesom forces 
