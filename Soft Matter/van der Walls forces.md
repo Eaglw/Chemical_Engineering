@@ -4,6 +4,5 @@ They can be split into 3 categories.
 Caused by the formation of *temporary dipole* in molecules. In void they are the weaker forces, but they are still the main forces between non polar molecules like methan or noble gas.
 ## Debye forces
 Cause by the interaction between a *permanent dipole* and a *temporary dipole*.
-The polar molecule polarizes an apolar molecule
-
+The attraction is made by a polar molecule that polarizes an apolar molecule. The attraction is proportional to the polarizability of the molecule, that is proportional to the dimensions. 
 ## Keesom forces 
