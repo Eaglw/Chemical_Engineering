@@ -9,4 +9,4 @@ Considering one particle in r=0 and the other at r, we can see three distint par
 In other pair potentials we could have two minima in this graph, and we can tune it for different behaviours.
 
 
-Usato per la [[Hamaker theory|Hamaker theory]]
+Usato per la [[Soft Matter/Hamaker theory|Hamaker theory]]
