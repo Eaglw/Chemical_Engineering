@@ -13,6 +13,7 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 |scaling on a|$\frac{1}{a}$|$a^{3}$|$a$|
 |$1 \mu m$ |4fN|4fN|2fN|
 |$10 \mu m$|0,4 fN|4000 fN|20 fN|
+
 where $a$ is the characteristic dimension of the particle.
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
 # Modelling approaches
