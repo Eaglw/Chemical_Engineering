@@ -30,5 +30,5 @@ The presence of a suspending medium does more than simply reduce the interaction
 # Electrostatic interactions
 
 # DLVO theory
-
+It's a theory that describes the force between charged surfaces interacting through a liquid medium. It combines the effect of the [[Soft Matter/van der Walls forces|van der Walls attraction]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]]. 
 # Entropic repulsion
