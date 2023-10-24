@@ -1,11 +1,11 @@
 ---
 dg-publish:
 ---
-
-
 It's a theory that describes the force between charged surfaces interacting through a liquid medium. It combines the effect of the [[Soft Matter/van der Walls forces|van der Walls attraction]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]], due to the so called [[Electric Double Layer|double layer of counterions]], by linearly summing them.
 
-$\LARGE w(H)= \frac{32n_{0}kT\pi d \Phi^{2}}{\kappa^{2}}exp\left(-\kappa H\right)-\frac{A_{121}d}{24H}$ 
+>[!important]
+>$\LARGE w(H)= \frac{32n_{0}kT\pi d \Phi^{2}}{\kappa^{2}}exp\left(-\kappa H\right)-\frac{A_{121}d}{24H}$ 
+
 where:
 - $n_{0}$ is the bulk concentration
 - d is the particle diameter
