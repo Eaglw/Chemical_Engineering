@@ -37,12 +37,9 @@ where:
 - $n_{0}$ is the bulk concentration
 - d is the particle diameter
 - $\Phi$ is the electric potential
-- $A$ is the [[Soft Matter/Hamaker theory|Hamaker]] constant, in which the first and third index describes the types of the interacting particles and the second index describes the medium in which they are dissolved
+- $A$ is the [[Soft Matter/Hamaker theory#^649420|Hamaker constant]] 
 - $H$ is the distance between particles
 - $\kappa^{-1}$ is the characteristic length of the [[Electric Double Layer|Electric Double Layer]]
-
-
-
 ### Assumption of the DLVO theory:
 1. There is a balance between electrostatic repulsion(EDL) and van der walls attraction. 
 2. *Additivity of the two contributions*.
@@ -50,4 +47,7 @@ where:
 4. Molecularly smooth and solid interfaces, which are chemically inert except as a source for counterions. 
 5. Intervening solvent has bulk properties up to the particle surface. 
 6. van der Walls force is obtained by pair wise summation of London dispersion forces and calculated assuming a uniform structure and orientation of the intervening solvent.
+### Effect of parameter on the DLVO potential energy
+The potential energy depends on particle size $d$, so *electrostatic stabilization is more important the larger the particle is*.
+
 # Entropic repulsion
