@@ -30,5 +30,12 @@ The presence of a suspending medium does more than simply reduce the interaction
 # Electrostatic interactions
 
 # DLVO theory
-It's a theory that describes the force between charged surfaces interacting through a liquid medium. It combines the effect of the [[Soft Matter/van der Walls forces|van der Walls attraction]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]]. 
+It's a theory that describes the force between charged surfaces interacting through a liquid medium. It combines the effect of the [[Soft Matter/van der Walls forces|van der Walls attraction]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]], due to the so called [[Electric Double Layer|double layer of counterions]].
+### Assumption of the DLVO theory:
+1. There is a balance between electrostatic repulsion(EDL) and van der walls attraction. 
+2. *Additivity of the two contributions*.
+3. Even distribution of particles and ions in the dispersion. 
+4. Molecularly smooth and solid interfaces, which are chemically inert except as a source for counterions. 
+5. Intervening solvent has bulk properties up to the particle surface. 
+6. van der Walls force is obtained by pair wise summation of London dispersion forces and calculated assuming a uniform structure and orientation of the intervening solvent.
 # Entropic repulsion
