@@ -4,7 +4,7 @@ tags:
   - maintopic
 ---
 There are various interparticle forces that become relevant in the field of [[Soft Matter/Soft matter|Soft matter]].
-# Thermal energy
+# Force scale respect to thermal energy
 The fundamental unit of energy in the colloidal and molecular world is given by the [[Soft Matter/Thermal energy|thermal energy]], that is useful to scale all the other forces that can exist in a system.
 ### Comparison of the modulus of thermal energy, gravity and drag forces, with conseguences
 | Particle size | Thermal agitation | Gravity | Drag |
@@ -16,7 +16,7 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 
 where $a$ is the characteristic dimension of the particle.
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
-# Modelling approaches
+# Modelling approaches 
 There are two approaches to understand the dispersion force attraction between particles and, although the *Lifshitz continuum description* is more reliable, a simpler one is the *molecular model* of the [[Soft Matter/Hamaker theory|Hamaker theory]]. He calculate the total attraction between particles summing the contributions of all pairs of particles.
 The interactions can be often modelled as a [[Soft Matter/Pair potential|pair potential]], and can be *repulsive* like [[Soft Matter/Hard-core repulsion pair potential|hard-core repulsion]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]], or *attractive*. The attractive ones can be of different natures:
 ### Which attraction forces can we find within atomic distances?
@@ -36,7 +36,10 @@ $\LARGE w(H)= \frac{32n_{0}kT\pi d \Phi^{2}}{\kappa^{2}}exp\left(-\kappa H\right
 where:
 - $n_{0}$ is the bulk concentration
 - d is the particle diameter
-- 
+- $\Phi$ is the electric potential
+- $A$ is the [[Soft Matter/Hamaker theory|Hamaker]] constant, in which the first and third index describes the types of the interacting particles and the second index describes the medium in which they are dissolved
+- $H$ is the distance between particles
+- $\kappa^{-1}$ is the characteristic length of the [[Electric Double Layer|Electric Double Layer]]
 
 
 
