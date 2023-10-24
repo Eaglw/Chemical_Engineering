@@ -27,29 +27,9 @@ The most relevants are the [[Soft Matter/Coulombic forces|Coulombic forces]] and
 Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
 The presence of a suspending medium does more than simply reduce the interaction energy or force. The intrinsic dipole moment and polarizability of an isolated gas molecule may be different in the liquid state or when dissolved in a medium, in fact, a dissolved molecule can move only by displacing an equal volume of solvent from its path.
 
-# Electrostatic interactions
 
-# DLVO theory
-It's a theory that describes the force between charged surfaces interacting through a liquid medium. It combines the effect of the [[Soft Matter/van der Walls forces|van der Walls attraction]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]], due to the so called [[Electric Double Layer|double layer of counterions]], by linearly summing them.
+In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[DLVO theory|DLVO theory]].
 
-$\LARGE w(H)= \frac{32n_{0}kT\pi d \Phi^{2}}{\kappa^{2}}exp\left(-\kappa H\right)-\frac{A_{121}d}{24H}$ 
-where:
-- $n_{0}$ is the bulk concentration
-- d is the particle diameter
-- $\Phi$ is the electric potential
-- $A$ is the [[Soft Matter/Hamaker theory#^649420|Hamaker constant]] 
-- $H$ is the distance between particles
-- $\kappa^{-1}$ is the characteristic length of the [[Electric Double Layer|Electric Double Layer]]
-![[Helper/media/DLVO example graph.png|350]]
-### Assumption of the DLVO theory:
-1. There is a balance between electrostatic repulsion(EDL) and van der walls attraction. 
-2. *Additivity of the two contributions*.
-3. Even distribution of particles and ions in the dispersion. 
-4. Molecularly smooth and solid interfaces, which are chemically inert except as a source for counterions. 
-5. Intervening solvent has bulk properties up to the particle surface. 
-6. van der Walls force is obtained by pair wise summation of London dispersion forces and calculated assuming a uniform structure and orientation of the intervening solvent.
-### Effect of parameter on the DLVO potential energy
-- w(H) depends on particle size $d$, so *electrostatic stabilization is more important the larger the particle is*.
-- 
+
 
 # Entropic repulsion
