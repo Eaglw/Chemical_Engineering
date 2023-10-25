@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+Wiki: https://en.wikipedia.org/wiki/DLVO_theory
 ---
 It's a theory that describes the force between charged surfaces interacting through a liquid medium. It combines the effect of the [[Soft Matter/van der Walls forces|van der Walls attraction]] and [[Soft Matter/Coulombic forces|electrostatic repulsion]], due to the so called [[Electric Double Layer|double layer of counterions]], by linearly summing them.
 
@@ -26,4 +27,9 @@ where:
 - The repulsion is higher for *higher potential at surface*(so the EDL).
 - The attraction is higher for *higher Hamaker constant* $A_{121}$ 
 - The distance from the surface before the repulsion drops significantly $\kappa^{-1}$ is *larger if we lower the electrolytes concentration*.
-So for low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher than the van der Walls attractive force, instead for high salt concentrations (high $\kappa$) the van der Walls attraction is dominant respect the EDL repulsion. 
+For low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher than the van der Walls attractive force, instead for high salt concentrations (high $\kappa$) the van der Walls attraction is dominant respect the EDL repulsion. 
+
+The van der Walls attraction is independent of the ion concentration, but the EDL repulsion is strongly dependent over it.
+
+Low salt concentration -> DLVO similar to EDL repulsion.
+High salt concentration -> DLVO similar to van der Walls attraction.
