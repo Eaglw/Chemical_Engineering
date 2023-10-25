@@ -26,8 +26,8 @@ Regarding beyond the bond-forming distances, the most relevant are the [[Soft Ma
 Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
 The presence of a suspending medium does more than simply reduce the interaction energy or force. The intrinsic dipole moment and polarizability of an isolated gas molecule may be different in the liquid state or when dissolved in a medium, in fact, a dissolved molecule can move only by displacing an equal volume of solvent from its path.
 
-# Electric and entropic double layer and DLVO
+# DLVO: EDL repulsion + van der Walls attraction
 In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Soft Matter/Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[Soft Matter/DLVO theory|DLVO theory]].  
-# Entropic repul
+# Entropic repulsion and deplation flocculation
 Another type of repulsion can be [[Soft Matter/Entropic repulsion|entropic repulsion]], tuned by the addition of polymer chains in the colloidal system. The nature of the added polymer can influence the entropic repulsion, and, as well, promoting the opposite phenomenon, the [[Deplation flocculation|deplation flocculation]].
 
