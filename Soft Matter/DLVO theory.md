@@ -29,7 +29,7 @@ where:
 - The distance from the surface before the repulsion drops significantly $\kappa^{-1}$ is *larger if we lower the electrolytes concentration*.
 For low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher than the van der Walls attractive force, instead for high salt concentrations (high $\kappa$) the van der Walls attraction is dominant respect the EDL repulsion. 
 ![[Helper/media/DLVO dependance on ions and R.png]]
-
+In this pictures the first energy minimum is not visualized, but it is still present.
 The van der Walls attraction is independent of the ion concentration, but the EDL repulsion is strongly dependent over it.
 
 |Salt concentration| DLVO is dominated by|
@@ -39,7 +39,8 @@ The van der Walls attraction is independent of the ion concentration, but the ED
 
 Relation between the ion concentration $\sigma_{0}$ and the surface potential $\psi_{0}$ is accessible by solving the [[Poisson-Boltzmann equation|Poisson-Boltzmann equation]], that for planar surfaces gives this result:
 $\Large \sigma_{0}=\epsilon_{0}\epsilon \kappa \psi_{0}$ 
-### Consequences of the parameter dependance of the DLVO potential for colloidal stability
-
+### Consequences of the parameter dependance of the DLVO potential for colloidal stability or coagulation
+The main one is that *larger particles are in general colloidally more stable than smaller particles*.
+That's because the aggregation barrier increases with the increasing size of the particle, even not changing the shape of the potential. 
 
 
