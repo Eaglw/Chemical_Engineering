@@ -22,7 +22,7 @@ The interactions can be often modelled as a [[Soft Matter/Pair potential|pair po
 ### Which attraction forces can we find within atomic distances?
 In the atomic scale we can fine chemical bonds and Lewis acid-based attractions.
 ### Which attraction forces can we find beyond bond-forming distances?
-The most relevants are the [[Soft Matter/Coulombic forces|Coulombic forces]] and the [[Soft Matter/van der Walls forces|van der Walls forces]], with the London(dispersion) forces being the main ones between the van der Walls forces.
+The most relevant are the [[Soft Matter/Coulombic forces|Coulombic forces]] and the [[Soft Matter/van der Walls forces|van der Walls forces]], with the London(dispersion) forces being the main ones between the van der Walls forces.
 ### Which is the effect of the presence of the *solvent* in the interparticle forces?
 Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
 The presence of a suspending medium does more than simply reduce the interaction energy or force. The intrinsic dipole moment and polarizability of an isolated gas molecule may be different in the liquid state or when dissolved in a medium, in fact, a dissolved molecule can move only by displacing an equal volume of solvent from its path.
