@@ -30,4 +30,4 @@ The presence of a suspending medium does more than simply reduce the interaction
 In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[Soft Matter/DLVO theory|DLVO theory]]. 
 
 
-Another type of repulsion can be had with the adsorption of polymeric chains on to the colloidal particles, that forms a protective layer 
+Another type of repulsion can be had with the adsorption of polymeric chains on to the colloidal particles, that form a protective layer around the particle. If two particles try to coalesce for the [[Soft Matter/van der Walls forces|van der Walls forces]], the polymeric layers act as a [[Entropic spring|entropic spring]] and push them back, trying to return to their reference configuration. 
