@@ -27,9 +27,5 @@ The most relevant are the [[Soft Matter/Coulombic forces|Coulombic forces]] and 
 Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
 The presence of a suspending medium does more than simply reduce the interaction energy or force. The intrinsic dipole moment and polarizability of an isolated gas molecule may be different in the liquid state or when dissolved in a medium, in fact, a dissolved molecule can move only by displacing an equal volume of solvent from its path.
 
-
-In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[Soft Matter/DLVO theory|DLVO theory]].
-
-
-
-# Entropic repulsion
+# Real interaction(?)
+In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[Soft Matter/DLVO theory|DLVO theory]]. 
