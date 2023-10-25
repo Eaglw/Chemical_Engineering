@@ -37,5 +37,5 @@ The van der Walls attraction is independent of the ion concentration, but the ED
 | Low  |EDL repulsion|
 | High  |van der Walls attraction|
 
-
+Relation between the ion concentration $\sigma_{0}$ and the surface potential $\psi_{0}$ is accessible by solving the [[Poisson-Boltzmann equation|Poisson-Boltzmann equation]], that for 
 
