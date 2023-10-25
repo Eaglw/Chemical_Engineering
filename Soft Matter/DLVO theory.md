@@ -28,11 +28,14 @@ where:
 - The attraction is higher for *higher Hamaker constant* $A_{121}$ 
 - The distance from the surface before the repulsion drops significantly $\kappa^{-1}$ is *larger if we lower the electrolytes concentration*.
 For low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher than the van der Walls attractive force, instead for high salt concentrations (high $\kappa$) the van der Walls attraction is dominant respect the EDL repulsion. 
-
-The van der Walls attraction is independent of the ion concentration, but the EDL repulsion is strongly dependent over it.
 ![[Helper/media/DLVO dependance on ions and R.png]]
 
-| Low salt concentration |-> DLVO is dominated by EDL repulsion.|
-| High salt concentration |-> DLVO is dominated by van der Walls attraction.|
+The van der Walls attraction is independent of the ion concentration, but the EDL repulsion is strongly dependent over it.
+
+|Salt concentration| DLVO is dominated by|
+|---|---|
+| Low  |EDL repulsion|
+| High  |van der Walls attraction|
+
 
 
