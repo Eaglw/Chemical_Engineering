@@ -31,5 +31,5 @@ For low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher 
 
 The van der Walls attraction is independent of the ion concentration, but the EDL repulsion is strongly dependent over it.
 
-Low salt concentration -> DLVO similar to EDL repulsion.
-High salt concentration -> DLVO similar to van der Walls attraction.
+Low salt concentration -> DLVO is dominated by EDL repulsion.
+High salt concentration -> DLVO is dominated by van der Walls attraction.
