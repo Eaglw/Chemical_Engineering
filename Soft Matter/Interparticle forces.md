@@ -29,5 +29,10 @@ The presence of a suspending medium does more than simply reduce the interaction
 # DLVO: EDL repulsion + van der Walls attraction
 In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Soft Matter/Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[Soft Matter/DLVO theory|DLVO theory]].  
 # Entropic repulsion and deplation flocculation
-Another type of repulsion can be [[Soft Matter/Entropic repulsion|entropic repulsion]], tuned by the addition of polymer chains in the colloidal system. The nature of the added polymer can influence the entropic repulsion, and, as well, promoting the opposite phenomenon, the [[Deplation flocculation|deplation flocculation]]. The two phenomena are always competing and the prevalence on one over the other is tuned by parameters like temperature of pH. 
+Another type of repulsion can be [[Soft Matter/Entropic repulsion|entropic repulsion]], tuned by the addition of polymer chains in the colloidal system. The nature of the added polymer can influence the entropic repulsion, and, as well, promoting the opposite phenomenon, the [[Soft Matter/Deplation flocculation|deplation flocculation]]. The two phenomena are always competing and the prevalence on one over the other is tuned by parameters like temperature of pH. 
 
+### Comparison between electrostatic and steric stabilization
+| Elecrostatic stabilization(EDL)|Steric stabilization|
+|---|---|
+|Addition of elecrolytes causes coagulation| Insensitive to electrolytes concentrations(for non ionic polymers).|
+|Usually only effective in aqueous systems| Effective in both aqueous and 
