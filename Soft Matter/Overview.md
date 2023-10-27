@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### Differences between classical and speciality chemicals
 
@@ -11,7 +14,7 @@ Also, speciality chemicals' value is a lot higher than the value of the reagents
 <!--ID: 1695225247289-->
 
 ### The continuum hypotesis is always valid?
-If we are dealing with a reactor with micro dimentions, this hypotesys may be not valid. If we use macromolecules like polymers, the dimention of the molecule became relevant in a micro scale, so we can't apply the continuum hypotesis.
+If we are dealing with a reactor with micro dimensions, this hypotesys may be not valid. If we use macromolecules like polymers, the dimension of the molecule became relevant in a micro scale, so we can't apply the continuum hypotesis.
 <!--ID: 1695226069320-->
 
 ### Shear vs elongational flow: which one has the biggest deformation?

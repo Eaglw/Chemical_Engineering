@@ -5,40 +5,54 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "path:\"Soft Matter\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16745037
-      }
-    },
-    {
-      "query": "path:\"Numerical Simulation\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
     {
       "query": "path:Rheology  ",
       "color": {
         "a": 1,
-        "rgb": 16711901
+        "rgb": 15599103
+      }
+    },
+    {
+      "query": "path:\"Soft Matter\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:\"Numerical Simulation/Comsol\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Advanced Transport Phenomena\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:Helper  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6391782214063757,
+  "scale": 1.0436555688242604,
   "close": true
 }
