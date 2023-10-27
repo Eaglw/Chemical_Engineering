@@ -13,6 +13,8 @@ The fundamental unit of energy in the colloidal and molecular world is given by 
 |scaling on a|$\frac{1}{a}$|$a^{3}$|$a$|
 |$1 \mu m$ |4fN|4fN|2fN|
 |$10 \mu m$|0,4 fN|4000 fN|20 fN|
+<!--ID: 1698399778463-->
+
 
 where $a$ is the characteristic dimension of the particle.
 It's easy to understand that the thermal agitation is relevant only on very low scale. For example particles with $a<1 \mu m$ may not sediment because of thermal agitation, instead, larger particles feel gravity much more.
@@ -22,9 +24,12 @@ The interactions can be often modelled as a [[Soft Matter/Pair potential|pair po
 ### Which attraction forces can we find within atomic distances and beyond bond-forming distances?
 In the atomic scale we can fine chemical bonds and Lewis acid-based attractions.
 Regarding beyond the bond-forming distances, the most relevant are the [[Soft Matter/Coulombic forces|Coulombic forces]] and the [[Soft Matter/van der Walls forces|van der Walls forces]], with the London(dispersion) forces being the main ones between the van der Walls forces.
+<!--ID: 1698399778465-->
+
 ### Which is the effect of the presence of the *solvent* in the interparticle forces?
 Interaction between molecules in a solvent medium can be very different from that of isolated molecules in free space or in a gas.
 The presence of a suspending medium does more than simply reduce the interaction energy or force. The intrinsic dipole moment and polarizability of an isolated gas molecule may be different in the liquid state or when dissolved in a medium, in fact, a dissolved molecule can move only by displacing an equal volume of solvent from its path.
+<!--ID: 1698399778467-->
 
 # DLVO: EDL repulsion + van der Walls attraction
 In complex systems, long-range electrostatic forces are also involved, and their relation with van der Walls forces has many important consequences, like avoiding coagulation of particles. These electrostatic interactions come from the presence of the [[Soft Matter/Electric Double Layer|Electric Double Layer]](EDL), and its interaction with the van der Walls forces is described in the [[Soft Matter/DLVO theory|DLVO theory]].  
@@ -35,4 +40,10 @@ Another type of repulsion can be [[Soft Matter/Entropic repulsion|entropic repul
 | Elecrostatic stabilization(EDL)|Steric stabilization|
 |---|---|
 |Addition of elecrolytes causes coagulation| Insensitive to electrolytes concentrations(for non ionic polymers).|
-|Usually only effective in aqueous systems| Effective in both aqueous and 
+|Usually only effective in aqueous systems| Effective in both aqueous and not|
+|More effective at low concentrations of the dispersion|Effective at both low and high concentrations|
+|Coagulations is not always possible|We can tune the coagulation|
+|Freezing of the dispersion induces irreversible coagulation|Remains stable when freezing|
+<!--ID: 1698399778468-->
+
+

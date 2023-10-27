@@ -6,5 +6,7 @@ In the case of a *free polymer*:
 $\Large R_{g}=l\frac{\sqrt{n}}{\sqrt{6}}=l\frac{\sqrt{M/M_0}}{\sqrt{6}}$ 
 ### What is the relation between the radius of gyration and the solvent?
 If the solvent is a [[Good and bad solvents|good solvent]] the gyration radius is *higher*, viceversa, if the solvent is a bad one the gyration radius is *lower*. This is because a good solvent can penetrate easily in the macromolecule, instead in contact with a bad solvent the macromolecule shrinks itself. 
+<!--ID: 1698399778462-->
+
 
 Also the interaction with the solid is relevant.

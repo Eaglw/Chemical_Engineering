@@ -8,6 +8,8 @@ where $\sigma$ is the *hard sphere diameter* and $n$ is an *integer in between 9
 ![[Helper/media/Hard-soft repulsion graph.png]]
 In the [[Soft Matter/Lennar Jones pair potential|Lennar Jones pair potential]] n is equal to 12.
 The only parameter appearing in this potential is $r$, because is universally valid, and will be always present in every pair potential.
+<!--ID: 1698399778476-->
+
 
 
 

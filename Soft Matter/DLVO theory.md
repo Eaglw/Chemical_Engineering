@@ -22,6 +22,8 @@ where:
 4. *Molecularly smooth and solid interfaces*, which are chemically inert except as a source for counterions. 
 5. Intervening solvent has bulk properties up to the particle surface. 
 6. van der Walls force is obtained by pair wise summation of London dispersion forces and calculated assuming a uniform structure and orientation of the intervening solvent.
+<!--ID: 1698399778471-->
+
 ### Effect of parameter on the DLVO potential energy
 - w(H) depends on particle size $d$, so *electrostatic stabilization is more important the larger the particle is*.
 - The repulsion is higher for *higher potential at surface*(so the EDL).
@@ -31,6 +33,8 @@ For low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher 
 ![[Helper/media/DLVO dependance on ions and R.png]]
 In this pictures the first energy minimum is not visualized, but it is still present.
 The van der Walls attraction is independent of the ion concentration, but the EDL repulsion is strongly dependent over it.
+<!--ID: 1698399778473-->
+
 
 |Salt concentration| DLVO is dominated by|
 |---|---|
@@ -42,5 +46,7 @@ $\Large \sigma_{0}=\epsilon_{0}\epsilon \kappa \psi_{0}$
 ### Consequences of the parameter dependance of the DLVO potential for colloidal stability or coagulation
 The main one is that *larger particles are in general colloidally more stable than smaller particles*.
 That's because the aggregation barrier increases with the increasing size of the particle, even not changing the shape of the potential. 
+<!--ID: 1698399778474-->
+
 
 
