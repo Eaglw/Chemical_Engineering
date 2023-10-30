@@ -26,7 +26,13 @@
   "timestampFormat": "dd mm, yyyy h:mm a",
   "styleSettingsCss": "",
   "pathRewriteRules": "",
-  "customFilters": [],
+  "customFilters": [
+    {
+      "pattern": "",
+      "flags": "g",
+      "replace": ""
+    }
+  ],
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
     "dgHomeLink": true,

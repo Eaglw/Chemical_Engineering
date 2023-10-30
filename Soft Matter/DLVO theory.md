@@ -29,6 +29,7 @@ where:
 - The repulsion is higher for *higher potential at surface*(so the EDL).
 - The attraction is higher for *higher Hamaker constant* $A_{121}$ 
 - The distance from the surface before the repulsion drops significantly $\kappa^{-1}$ is *larger if we lower the electrolytes concentration*.
+
 For low electrolyte concentrations (small $\kappa$) the EDL repulsion is higher than the van der Walls attractive force, instead for high salt concentrations (high $\kappa$) the van der Walls attraction is dominant respect the EDL repulsion. 
 ![[Helper/media/DLVO dependance on ions and R.png]]
 In this pictures the first energy minimum is not visualized, but it is still present.
