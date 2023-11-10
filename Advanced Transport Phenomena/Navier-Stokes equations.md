@@ -1,5 +1,6 @@
 ---
-tags: []
+tags: 
+dg-publish: true
 ---
 >[!important]
 >$\LARGE \nabla \cdot \textbf{u}=0$

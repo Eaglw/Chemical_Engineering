@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 They are needed because the [[Advanced Transport Phenomena/Mass balance equation|mass]] and [[Advanced Transport Phenomena/Momentum balance equations|momentum]] balance equation form a system of 4 equations in 12 unknowns. 
 - mass balance is a scalar equation
 - momentum balance is a vectorial equation in 3 components. 
