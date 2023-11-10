@@ -10,4 +10,3 @@ tags:
 [[Diffusion eq]]
 [[Smoluchowski]]
 [[Brownian motion]]
-]]
