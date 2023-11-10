@@ -9,3 +9,5 @@ tags:
 [[Langevin model]]
 [[Diffusion eq]]
 [[Smoluchowski]]
+[[Brownian motion]]
+]]
