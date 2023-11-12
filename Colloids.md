@@ -11,7 +11,7 @@ The key aspect is that they are *small enough to feel the* [[Thermal motion|ther
 Colloidal particles do not have a fixed length scale, there are no absolute bounds. The colloidal nature of particles is determined by their behavior in relation to gravitational and fluid flow forces, which are *dependent on both the particle and the medium* in which they exist. *In general, particles that exhibit [[Brownian motion|Brownian motion]] are classified as colloidal.*
 
 ## Colloidal stability
-
+In order to create a stable colloidal system it's necessary the presence of an energy barrier. The two mechanism that are present regarding the aggregation of particles a
 
 
 
