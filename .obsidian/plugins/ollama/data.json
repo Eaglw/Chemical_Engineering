@@ -46,6 +46,12 @@
       "prompt": "Rewrite this text as if you were an expert chemical engineer, with formal but not so hard to understand language. It has to be clear and didactic ",
       "model": "mistral",
       "temperature": 0.19
+    },
+    {
+      "name": "engineering2",
+      "prompt": "Rewrite this text as if you were an expert chemical engineer, with formal but not so hard to understand language. It has to be clear and didactic, without adding to much information on top of the ones already present in the text. You can add some informations only if the are really useful to the understanting of the text.",
+      "model": "mistral",
+      "temperature": 0.04
     }
   ]
 }
