@@ -5,10 +5,10 @@ Colloids, or colloidal particles, are polyatomic particles suspended in a medium
 The key aspect is that they are *small enough to feel the* [[Thermal motion|thermal agitation]] *of the suspending medium*. 
 
 ### Is there a range of length-scale to talk about colloidal particles?
-Colloidal particles do not have a fixed length scale, there are no absolute bounds. The colloidal nature of particles is determined by their behavior in relation to gravitational and fluid flow forces, which are *dependent on both the particle and the medium* in which they exist. In general, particles that exhibit [[Brownian motion|Brownian motion]] are classified as colloidal.
-️
-We can't make any restrictions regarding the length scale of colloidal particles, there are no absolute bounds. That's because the colloidal nature of particles depends on how they behave respect to intertial or body forces, such as gravity and fluid flow, so it *depends on both the particles and the medium*.
-In general, we can say that particles that particles that go under the [[Brownian motion|Brownian motion]] are considered colloidal.
+Colloidal particles do not have a fixed length scale, there are no absolute bounds. The colloidal nature of particles is determined by their behavior in relation to gravitational and fluid flow forces, which are *dependent on both the particle and the medium* in which they exist. *In general, particles that exhibit [[Brownian motion|Brownian motion]] are classified as colloidal.*
+
+## Colloidal stability
+
 
 
 
