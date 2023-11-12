@@ -13,7 +13,8 @@ Colloidal particles do not have a fixed length scale, there are no absolute boun
 ## Colloidal stability
 In order to create a stable colloidal system it's necessary the presence of an energy barrier. The two mechanism that are present regarding the aggregation of particles are [[Thermal motion|thermal agitation]] and all the [[Soft Matter/Interparticle forces|interparticle forces]].
 The presence of a barrier implies that the system is under kinetic control rather than thermodynamic control.
-
+We can divide the systems into:
+- Lyophobic 
 
 
 
