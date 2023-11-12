@@ -14,6 +14,7 @@ Colloidal particles do not have a fixed length scale, there are no absolute boun
 We can divide the systems into:
 - *Lyophobic*: thermodynamically unstable (hydrophobic if with water)
 - *Lyophilic*: thermodynamically stable (hydrophilic if with water)
+
 Lyophilic colloids are formed *spontaneously* when the two phases are brought together because the dispersion is thermodynamically more stable than the original separated state.
 Instead, lyophobic systems are not formed spontaneously, so in order to create a stable lyophobic colloidal system it's necessary the presence of an *energy barrier*.S The two mechanism that are present regarding the aggregation of particles are [[Thermal motion|thermal agitation]] and all the [[Soft Matter/Interparticle forces|interparticle forces]].
 The presence of a barrier implies that the system is under kinetic control rather than thermodynamic control, so they are *metastable systems*.
