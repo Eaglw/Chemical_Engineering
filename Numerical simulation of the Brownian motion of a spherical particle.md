@@ -1,16 +1,10 @@
 ---
 dg-publish:
 ---
-To write stochastic differential equations in matlab we need random number generators (RNG) to model the stochastic terms.
-Examples can be the Linear Congruential RNG (special case the multiplicative or Lehmer RNG) or Gaussians RNGs, that are particulary useful because the random numbers generated are a gaussian distribution.
-Examples of Gaussian RNGs are the Box-Muller method and the Central Limit theorem method.
-Box muller generates one gaussian every uniform random number, but is computationally heavier. 
-Central limit theorem instead generates one gaussian number every twelve uniform numbers, but it is computationally a lot lighter. 
+Stochastic differential equations (SDEs) are mathematical models that describe the evolution of a system over time in the presence of random fluctuations or noise. To model the stochastic terms in SDEs, we often use random number generators (RNGs) to generate random numbers that follow a certain distribution, such as a Gaussian distribution.
 
-what are the wiener processes?
+Linear Congruential RNGs (LCRNGs), also known as multiplicative or Lehmer RNGs, are a type of RNG that generates a sequence of pseudo-random numbers by iteratively applying a linear congruential function to an initial seed value. LCRNGs have been widely used in computer science and engineering applications due to their simplicity and speed.
 
-️️To write stochastic differential equations in MATLAB, we require random number generators (RNGs) to model the stochastic terms. Examples of RNGs include the Linear Congruential RNG (a special case of the multiplicative or Lehmer RNG), and Gaussian RNGs, which are particularly useful because they generate random numbers that follow a Gaussian distribution.
+Gaussian RNGs, on the other hand, generate random numbers that follow a Gaussian distribution, which is useful because many physical phenomena can be modeled using a gaussian distribution. Examples of Gaussian RNGs include the Box-Muller method and the Central Limit theorem method. The Box-Muller method generates one gaussian every uniform random number, while the Central Limit theorem method generates one gaussian number every twelve uniform numbers, but the Central Limit theorem is computationally lighter.
 
-Examples of Gaussian RNGs include the Box-Muller method and the Central Limit theorem method. The Box-Muller method generates one Gaussian number every uniform random number, but is computationally heavier. On the other hand, the Central Limit theorem method generates one Gaussian number every twelve uniform numbers, which is computationally lighter.
-
-What are Wiener processes?️
+Wiener processes are a type of stochastic process that describes the evolution of a system with random fluctuations over time. 
