@@ -3,7 +3,7 @@ dg-publish: true
 ---
 Balance equations are a core concept in chemical engineering, in fact every transport phenomena goes through the writing of them.
 The general structure of balance equations is:
->[!important]
+>[!definition]
 >ACC= IN - OUT + GEN 
 
 - ﻿﻿ACC represents accumulation in time of the quantity of interest within a control volume.
