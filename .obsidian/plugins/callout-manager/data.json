@@ -1,7 +1,17 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "definition"
+    ],
+    "settings": {
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-book-marked"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,

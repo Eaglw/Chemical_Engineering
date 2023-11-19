@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Condensed matter with atoms freely mobile on a local scale, containing *connected polyatomic structures* like solid grains or large molecules.
 ### Which is the difference between simple and structured fluids?
 - Simple: material with a uniform phase, such as a solution or pure substance.

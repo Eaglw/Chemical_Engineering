@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 >[!important]
 >$\LARGE \rho \frac{\partial \textbf{u}}{\partial t} + \rho \textbf{u} \cdot \nabla \textbf{u} = \nabla \cdot \textbf{T}+\textbf{F}$
 

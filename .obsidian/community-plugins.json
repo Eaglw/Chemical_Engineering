@@ -6,5 +6,7 @@
   "obsidian-git",
   "copilot",
   "digitalgarden",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-banners",
+  "ollama"
 ]

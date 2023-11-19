@@ -3,9 +3,11 @@
   "githubToken": "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",
   "githubUserName": "eaglw",
   "gardenBaseUrl": "",
-  "prHistory": [],
+  "prHistory": [
+    "https://github.com/Eaglw/Chemical-Engineering-s-wiki/pull/10"
+  ],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"Minimal\",\"author\":\"kepano\",\"repo\":\"kepano/obsidian-minimal\",\"screenshot\":\"dark-simple.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kepano/obsidian-minimal/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Synthwave '84\",\"author\":\"George Jose\",\"repo\":\"G2Jose/synthwave-84-obsidian-theme\",\"screenshot\":\"screenshot-512x288.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/G2Jose/synthwave-84-obsidian-theme/HEAD/theme.css\"}",
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
   "siteName": "Chemical Engineering of Product's wiki",
@@ -24,7 +26,13 @@
   "timestampFormat": "dd mm, yyyy h:mm a",
   "styleSettingsCss": "",
   "pathRewriteRules": "",
-  "customFilters": [],
+  "customFilters": [
+    {
+      "pattern": "",
+      "flags": "g",
+      "replace": ""
+    }
+  ],
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
     "dgHomeLink": true,

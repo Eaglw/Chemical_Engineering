@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Van der Waals forces represent a class of intermolecular forces that encompass both attractive and, in specific cases, repulsive interactions between molecules or particles. These forces exhibit anisotropy, meaning their magnitude depends on the relative orientation of the interacting molecules. In systems where [[Thermal motion|thermal motion]], as observed in *gaseous or liquid states*, is prevalent, the electrostatic force between molecules experiences a significant reduction as the molecules continuously undergo rotational motion.
 ### Dipole momentum
 To understand the nature of the van der Walls forces is useful to introduce the *Dipole momentum.* It's a measure of the separation of positive and negative electrical charges within a system. 

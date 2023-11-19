@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Also called *complex liquid*, soft matter is related to the concept of [[Soft Matter/Structured fluids|structured fluids]]. 
 ### Structure of soft matter
 The characteristic of soft matter is the presence of suspended particles/droplets, macromolecular coils, and self-assembled structures as micelles and bilayers. 
