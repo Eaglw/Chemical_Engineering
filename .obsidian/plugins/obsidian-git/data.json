@@ -1,7 +1,7 @@
 {
-  "commitMessage": "vault backup: {{date}} from {{hostname}}. The changed file's number is {{numFiles}}",
-  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
-  "autoSaveInterval": 7,
+  "commitMessage": "vault backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 3,
   "autoPullOnBoot": true,
