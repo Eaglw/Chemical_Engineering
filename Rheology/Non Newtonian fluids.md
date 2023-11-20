@@ -3,7 +3,7 @@ dg-publish:
 Resources: https://en.wikipedia.org/wiki/Non-Newtonian_fluid
 ---
 A fluid is non Newtonian if it shows any of the following behavior:
-1. The [[Rheology/Shear viscosity|shear viscosity]] vary with the [[Shear rate|shear rate]].
+1. The [[Rheology/Shear viscosity|shear viscosity]] vary with the [[Strain rate|shear rate]].
 2. It presents [[Normal stresses|normal stresses]] in simple shear flow. 
 3. It shows [[Rheopexicity|rheopexic]] or [[Thixotropy|thixotropic]] behavior, viscosity depends on time.
 4. [[Rheology/Shear viscosity|Shear viscosity]] and [[Elongational viscosity|elongational viscosity]] are not in simple proportion, like the [[Trouton ratio|Trouton ratio]].
