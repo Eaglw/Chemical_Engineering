@@ -19,4 +19,4 @@ $\LARGE \nabla \cdot \rho \textbf{u}=0$
 ## Constant-density fluid
 If we consider a *incompressible* fluid, and for pratical purposes any fluid with [[Dimentionless numbers/Mach number|Mach number]] much lower that 1, we obtain: 
 $\LARGE \nabla \cdot \textbf{u}=0$
-^c884c2
+^c884c2c
