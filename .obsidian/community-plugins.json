@@ -9,5 +9,6 @@
   "ollama",
   "templater-obsidian",
   "obsidian-paste-image-rename",
-  "obisidian-note-linker"
+  "obisidian-note-linker",
+  "obsidian-latex-suite"
 ]

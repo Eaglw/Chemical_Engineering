@@ -14,3 +14,5 @@ Microscopic time scale 1 picosecond 10^-12 s, time it takes a typical atom to mo
 Macro length is cm and macro time is min or hours.
 
 It can be modeled with Langevin eq.
+
+ $$
