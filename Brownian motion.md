@@ -15,4 +15,4 @@ Macro length is cm and macro time is min or hours.
 
 It can be modeled with Langevin eq.
 
- $$
+$$
