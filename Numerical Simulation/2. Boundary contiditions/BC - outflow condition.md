@@ -11,9 +11,12 @@ where:
 2. $\mathbf{n}$ is the unit normal vector pointing outward. 
 
 Physically, this condition represents an outlet in an ambient at pressure $p_{out}$   
-• At variance with the previous one, the condition on a boundary of the   
-domain where the fluid exits is not univocally defined and depends on   
-the specific problem   
+With this condition on a boundary of the domain, the velocity profile is not univocally defined and depends on the specific problem.
+The quantity $\mathbf{T\cdot n}$ is the «traction», which is the force exerted by the fluid   
+on the boundary.
 
-• The quantity T • n is the «traction», which is the force exerted by the fluid   
-on the boundary
+Esempio per vedere che in uscita abbiamo non fully developed flow
+
+## Alternative BC that takes into account only the normal outflow
+>[!definition]
+>
