@@ -1,7 +1,7 @@
 ---
 dg-publish:
 ---
-Stochastic differential equations (SDEs) are mathematical models that describe the evolution of a system over time in the presence of random fluctuations or noise. To model the [[Stochastic variable|stochastic]] terms in SDEs, we often use random number generators (RNGs) to generate random numbers that follow a certain distribution, such as a Gaussian distribution.
+Stochastic differential equations (SDEs) are mathematical models that describe the evolution of a system over time in the presence of random fluctuations or noise. To model the [[Basic concepts/Stochastic variable|stochastic]] terms in SDEs, we often use random number generators (RNGs) to generate random numbers that follow a certain distribution, such as a Gaussian distribution.
 
 Linear Congruential RNGs (LCRNGs), also known as multiplicative or Lehmer RNGs, are a type of RNG that generates a sequence of pseudo-random numbers by iteratively applying a linear congruential function to an initial seed value. LCRNGs have been widely used in computer science and engineering applications due to their simplicity and speed.
 

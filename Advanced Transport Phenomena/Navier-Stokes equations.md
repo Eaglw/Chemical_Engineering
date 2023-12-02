@@ -18,4 +18,4 @@ This system is valid for incompressible (constant $\rho$), newtonian fluids, in 
 These are 4 partial differential equations in 4 unknowns:
 1. Pressure
 2. 3 components of velocity vector
-As all differential equations they need initial and [[Boundary conditions|boundary conditions]] in order to be solved. 
+As all differential equations they need initial and [[Basic concepts/Boundary conditions|boundary conditions]] in order to be solved. 
