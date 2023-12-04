@@ -14,8 +14,8 @@ $\LARGE \rho \big( \frac{\partial \textbf{u}}{\partial t} +\textbf{u} \cdot \nab
 where $\nabla^{2}$ is the [[Laplacian operator|Laplacian operator]].
 
 ## Field of application
-This system is valid for incompressible( constant $\rho$ ), newtonian fluids, in isothermal conditions(constant $\eta$). 
+This system is valid for incompressible (constant $\rho$), newtonian fluids, in isothermal conditions (constant $\eta$). 
 These are 4 partial differential equations in 4 unknowns:
 1. Pressure
 2. 3 components of velocity vector
-As all differential equations they need initial and boundary conditions in order to be solved. 
+As all differential equations they need initial and [[Basic concepts/Boundary conditions|boundary conditions]] in order to be solved. 

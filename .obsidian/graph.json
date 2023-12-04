@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "path:\"Numerical Simulation/Comsol\"  ",
+      "query": "path:\"Numerical Simulation\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 9047823
       }
     },
     {
@@ -34,16 +34,9 @@
         "a": 1,
         "rgb": 65518
       }
-    },
-    {
-      "query": "path:Helper  ",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -53,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0436555688242604,
+  "scale": 0.36725178462916247,
   "close": true
 }

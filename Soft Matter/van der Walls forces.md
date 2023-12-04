@@ -5,7 +5,7 @@ Van der Waals forces represent a class of intermolecular forces that encompass b
 ### Dipole momentum
 To understand the nature of the van der Walls forces is useful to introduce the *Dipole momentum.* It's a measure of the separation of positive and negative electrical charges within a system. 
 $\LARGE u= ql \quad [Cm]$ where $\LARGE 1 Debye=1D=3.336*10^{30} Cm$ 
-An object with an electric dipole moment is subject to a torque $\tau=u \times E$(for a uniform E in space) when placed in an external electric field.
+An object with an electric dipole moment is subject to a torque $\tau=u \times E$ (for a uniform E in space) when placed in an external electric field.
 <!--ID: 1698399778445-->
 
 

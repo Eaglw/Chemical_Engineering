@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"ca6ebd0ed2399303","type":"text","text":"stocastic variable","x":-400,"y":-300,"width":250,"height":60},
-		{"id":"3ad503267d0d326e","type":"file","file":"Colloidal system and brownian motion.md","x":-300,"y":-140,"width":400,"height":400}
-	],
-	"edges":[]
-}
