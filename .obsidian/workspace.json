@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "dccba4501bb364f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9e2acf54e33c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3070d641008c00cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b39eead52d28ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dimentionless numbers/Prandl number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f23f4322633b83f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adfd04d821d12066",
+    "type": "split",
+    "children": [
+      {
+        "id": "299192f309fc10cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a8e05f0be1361f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df76453403ccc28c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac47b2b2065b7d86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "debye",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5df2ea10bd09a0dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soft Matter/1. Lessons/3. Interparticle forces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c083f0990d8483f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "905d225cb6c19db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "402a9e5ea0ea98a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c4c30d0a2e09ad03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e061e8d8afba41b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dc0fffd6c6e665d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md"
+              }
+            }
+          },
+          {
+            "id": "5a98dda5ef05792b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6621766869700472,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "c2a8a6587c8f4011",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "bc2a2a02558db889",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "f23f4322633b83f6",
+  "lastOpenFiles": [
+    "Dimentionless numbers/Prandl number.md",
+    "Dimentionless numbers/Reynolds number.md",
+    "Numerical simulation of the Brownian motion of a spherical particle.md",
+    "Numerical Simulation/1. Lessons/5. Simulation of energy and species transport.md",
+    "Advanced Transport Phenomena/Energy balance equation.md",
+    "Advanced Transport Phenomena/Navier-Stokes equations.md",
+    "Advanced Transport Phenomena/Momentum balance equations.md",
+    "Basic concepts/Fourier constitutive equation.md",
+    "Basic concepts/Boundary conditions.md",
+    "Basic concepts/Balance equations map.canvas",
+    "Numerical Simulation/2. Boundary contiditions/BC - periodicity(flow).md",
+    "Numerical Simulation/1. Lessons/3. Boundary conditions for the Navier-Stockes equations.md",
+    "Numerical Simulation/2. Boundary contiditions/BC - axial simmetry.md",
+    "Numerical Simulation/2. Boundary contiditions/BC - simmetry.md",
+    "Numerical Simulation/2. Boundary contiditions/BC - velocity profile.md",
+    "Soft Matter/van der Walls forces.md",
+    "Soft Matter/1. Lessons/3. Interparticle forces.md",
+    "Soft Matter/Hamaker theory.md",
+    "Soft Matter/Coulombic forces.md",
+    "Soft Matter/Electric Double Layer.md",
+    "Numerical Simulation/1. Lessons/4. The basic of numerical simulations.md",
+    "Numerical Simulation/1. Lessons/6. Modeling and simulation of Non-Newtonian fluids.md",
+    "Soft Matter/1. Lessons/6. Colloidal system and brownian motion.md",
+    "Soft Matter/Lennar Jones pair potential.md",
+    "Soft Matter/Hard-core repulsion pair potential.md",
+    "Basic concepts/Stochastic variable.md",
+    "Soft Matter/1. Lessons",
+    "Smoluchowski.md",
+    "Colloidal particles and brownian motion.canvas",
+    "Numerical Simulation/1. Lessons",
+    "Numerical Simulation/2. Boundary contiditions",
+    "Helper/media/LJ potential.png",
+    "Helper/media/DLVO dependance on ions and R.png",
+    "Helper/media/DLVO example graph.png",
+    "Helper/media/Pasted image 20231024185157.png",
+    "Helper/media/Hamaker mechanism.png",
+    "Helper",
+    "Helper/Template",
+    "Helper/media/Hard-soft repulsion graph.png",
+    "Helper/media",
+    "copilot-conversations",
+    "Soft Matter",
+    "Rheology/Rheometers",
+    "Rheology"
+  ]
+}
