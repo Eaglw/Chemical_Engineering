@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - revision
 ---
 >[!definition]
 >$\large T_{f}=T_{s}$

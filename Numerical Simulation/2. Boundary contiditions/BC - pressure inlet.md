@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - revision
 ---
 >[!definition]
 >$\large \mathbf{n^{T}\cdot T\cdot n}=-p_{n}$

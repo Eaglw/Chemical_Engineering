@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - revision
 ---
 >[!definition]
 >$\large -\mathbf{n} \cdot (-k \nabla T)=q_{BC}$ 

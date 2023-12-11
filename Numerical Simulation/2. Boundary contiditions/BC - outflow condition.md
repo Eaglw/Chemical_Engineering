@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - revision
 ---
 >[!definition]
 >$\large \mathbf{T\cdot n}=-p_{out}\mathbf{n}$

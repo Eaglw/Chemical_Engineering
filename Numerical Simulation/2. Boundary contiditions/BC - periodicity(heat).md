@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - revision
 ---
 >[!Definition]
 >$\Large T|_{\Omega_{1}}=T|_{\Omega_{2}}$

@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - revision
 ---
 >[!definition]
 >$\large \mathbf{u\cdot n}$
