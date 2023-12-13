@@ -1,6 +1,7 @@
 ---
 tags:
   - notdone
+  - revision
 dg-publish: true
 ---
 >[!important]

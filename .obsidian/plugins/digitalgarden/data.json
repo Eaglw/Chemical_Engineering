@@ -1,6 +1,6 @@
 {
   "githubRepo": "Chemical-Engineering-s-wiki",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "eaglw",
   "gardenBaseUrl": "",
   "prHistory": [
@@ -11,7 +11,7 @@
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
   "siteName": "Chemical Engineering of Product's wiki",
-  "mainLanguage": "it",
+  "mainLanguage": "en",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
@@ -25,6 +25,7 @@
   "updatedTimestampKey": "",
   "timestampFormat": "dd mm, yyyy h:mm a",
   "styleSettingsCss": "",
+  "styleSettingsBodyClasses": "",
   "pathRewriteRules": "",
   "customFilters": [
     {
