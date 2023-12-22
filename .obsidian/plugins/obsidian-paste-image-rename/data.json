@@ -1,9 +1,9 @@
 {
-  "imageNamePattern": "{{fileName}}",
+  "imageNamePattern": "{{fileName}}-{{imageNameKey}}",
   "dupNumberAtStart": false,
   "dupNumberDelimiter": "-",
   "dupNumberAlways": false,
-  "autoRename": true,
+  "autoRename": false,
   "handleAllAttachments": false,
   "excludeExtensionPattern": "",
   "disableRenameNotice": false
