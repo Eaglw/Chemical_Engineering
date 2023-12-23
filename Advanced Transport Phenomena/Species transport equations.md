@@ -1,6 +1,6 @@
 ---
-tags:
-  - notdone
+tags: 
+dg-publish: true
 ---
 If a fluid is not homogeneous but a mixture, where two or more miscible species flow, mix and eventually react, the time and space evolutino of the mixture composition is governed by a *species transport equation on each species*.
 # Mathematical expression
@@ -30,3 +30,9 @@ $\LARGE \rho(\frac{\partial\omega_{A}}{\partial t}+\mathbf{\overline{u}} \cdot \
 In molar terms:
 $\LARGE c\left( \frac{\partial x_{A}}{\partial t}+ \mathbf{\overline{u^{*}}} \cdot \nabla x_{A} \right)=\nabla \cdot(c D_{AB}\nabla x_{A})+(1-x_{A})R_{A}-x_{A}R_{B}$
 
+## Dilute liquid mixture, with constant temperature and pressure
+The product $\rho D_{AB}$ is constant, so the balance on species A in mass term simplifies as:
+$\LARGE \rho(\frac{\partial\omega_{A}}{\partial t}+\mathbf{\overline{u}} \cdot \nabla \omega_{A})=\rho D_{AB}\nabla^{2} \omega_{A}+r_{A}$
+## Low density gaseous mixture, with constant temperature and pressure
+The product $cD_{AB}$ is constant, so the balance on species A in molar terms simplifies as:
+$\LARGE c\left( \frac{\partial x_{A}}{\partial t}+ \mathbf{\overline{u^{*}}} \cdot \nabla x_{A} \right)=c D_{AB}\nabla^{2} x_{A}+(1-x_{A})R_{A}-x_{A}R_{B}$
