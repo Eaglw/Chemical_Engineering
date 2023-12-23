@@ -2,9 +2,6 @@
 dg-publish: 
 tags:
   - notdone
+Resources: https://en.wikipedia.org/wiki/Schmidt_number#:~:text=In%20fluid%20dynamics%2C%20the%20Schmidt,and%20mass%20diffusion%20convection%20processes.
 ---
-make a brief description of the schmidt number, write the expression in latexThe Schmidt number, denoted by the symbol S, is a dimensionless quantity used to quantify the relative importance of thermal conductivity and specific heat capacity in determining the rate of heat transfer within a material. It is defined as:
-
-S = k/c\*rho
-
-where k is the thermal conductivity of the material, c is its specific heat capacity, and rho is its density. The Schmidt number can be used to predict the behavior of materials under different temperature gradients and can help in selecting appropriate materials for various applications.️
+In fluid dynamics, the Schmidt number (denoted Sc) of a fluid is a dimensionless number defined as the ratio of momentum diffusivity (kinematic viscosity) and mass diffusivity, and it is used to characterize fluid flows in which there are simultaneous momentum and mass diffusion convection processes.
