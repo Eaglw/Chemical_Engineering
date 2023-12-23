@@ -28,5 +28,5 @@ In the case of mixtures made by more than two components, the expressions for th
 In mass terms:
 $\LARGE \rho(\frac{\partial\omega_{A}}{\partial t}+\mathbf{\overline{u}} \cdot \nabla \omega_{A})=\nabla \cdot(\rho D_{AB}\nabla \omega_{A})+r_{A}$
 In molar terms:
-$\LARGE c\left( \frac{\partial x_{A}}{\partial t}+ \mathbf{\overline{u^{*}}} \cdot \nabla x_{A} \right)=- \nabla \cdot \mathbf{$
+$\LARGE c\left( \frac{\partial x_{A}}{\partial t}+ \mathbf{\overline{u^{*}}} \cdot \nabla x_{A} \right)=\nabla \cdot(c D_{AB}\nabla x_{A})+(1-x_{A})R_{A}-x_{A}R_{B}$
 
