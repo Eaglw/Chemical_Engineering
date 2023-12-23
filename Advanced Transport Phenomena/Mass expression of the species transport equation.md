@@ -12,3 +12,7 @@ where:
 
 and the mass average mixture velocity is defined as:
 $\large \overline{u}=\frac{\sum^{N}_{i=1}\rho_{i}\mathbf{u}_{i}}{\sum^{N}_{i=1}\rho_{i}}=\frac{\sum^{N}_{i=1}\rho_{i} \mathbf{u}_{i}}{\rho}$
+
+Regarding only this expression, for a mixture with N components, the summation of the diffusion and reaction terms is zero, for the [[Basic concepts/Lavoisier principle|Lavoisier principle]].
+For this reason, summing up the N species transport equations we get the [[Advanced Transport Phenomena/Mass balance equation|continuity equation]] for the overall system. 
+Therefore, the mass average mixture velocity coincides with the velocity $\mathbf{u}$ of the continuity equation. 

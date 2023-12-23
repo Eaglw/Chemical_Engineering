@@ -13,4 +13,4 @@ where:
 and the mass average mixture velocity is defined as:
 $\large \overline{u^{*}}=\frac{\sum^{N}_{i=1}c_{i}\mathbf{u}_{i}}{\sum^{N}_{i=1}c_{i}}=\frac{\sum^{N}_{i=1}c_{i} \mathbf{u}_{i}}{c}$
 
-
+Differently from the [[Advanced Transport Phenomena/Mass expression of the species transport equation|mass expression]], in a mixture of N components, summing up the N species transport equations in molar terms *don't* results in the [[Advanced Transport Phenomena/Mass balance equation|continuity equation]] of the overall system since, during a reaction, the moles do not remain constant in general, but only the mass is conserved. 

@@ -17,7 +17,7 @@ Each of them has the following terms:
 4. The forth is the *generation/disappearence term due to chemical reaction*
 5. The fifth, present only in the molar fraction expression, is a corrective term to take into account the moles variations during the reactions. 
 
-
+For a mixture of N components, the number of independent species transport equations is N-1.
 # Modeling of the diffusion term
 Through the [[Basic concepts/Fick's law|Fick's law]], for a binary mixture, we can express the diffusive fluxes of species A and B as:
 - In term of *mass diffusive fluxes*: $\mathbf{j}_{A}=-\rho D_{AB}\nabla \omega_{A}$ and $\mathbf{j}_{B}=-\rho D_{BA}\nabla \omega_{B}$
