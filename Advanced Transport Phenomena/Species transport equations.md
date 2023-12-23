@@ -20,4 +20,5 @@ Each of them has the following terms:
 Through the [[Basic concepts/Fick's law|Fick's law]], for a binary mixture, we can express the diffusive fluxes of species A and B as:
 - In term of *mass diffusive fluxes*: $\mathbf{j}_{A}=-\rho D_{AB}\nabla \omega_{A}$ and $\mathbf{j}_{B}=-\rho D_{BA}\nabla \omega_{B}$
 - In term of *molar diffusive fluxes*: $\mathbf{j}^{*}_{A}=-c D_{AB}\nabla x_{A}$ and $\mathbf{j}^{*}_{B}=-c D_{BA}\nabla x_{B}$
-where $D_{AB=D_{BA}}$
+where $D_{AB}=D_{BA}$ are the *diffusion coefficient of the binary mixtures*, in $\frac{m^{2}}{s}$.
+In the case of mixtures made by more than two components, the expressions for the diffusive fluxes are more complex. 
