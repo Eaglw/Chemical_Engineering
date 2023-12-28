@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-tags: []
+dg-publish: "true"
+tags:
 ---
 >[!definition]
 >$\large \frac{\partial C}{\partial t}=D \nabla^{2}C$
