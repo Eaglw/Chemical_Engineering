@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: "true"
 ---
 >[!important]
 > $\LARGE \frac{\partial \rho}{\partial t} + \nabla\cdot \rho \textbf{u}=0$
