@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: "true"
 ---
 >[!important]
 >$\LARGE \textbf{q} = -k \nabla T$
