@@ -11,4 +11,5 @@ There are many other different ways to measure strains,
 
 - *Stretch ratio* $s=\frac{l}{l_{0}}$
 - *Engineering (Cauchy) strain (for small strains)* $\epsilon_{E}=\frac{l-l_{0}}{l_{0}}$
-- *Hencky strain* $\epsilon_{E}=$
+- *Hencky strain* $\epsilon_{H}=\log \frac{l}{l_{0}}$
+- *Green Lagrange strain* $\epsilon_{C}=\frac{1}{2}\frac{l^{2}-l^{2}_{0}}{l^{2}_{0}}$
