@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: "true"
 ---
 Also called *complex liquid*, soft matter is related to the concept of [[Soft Matter/Structured fluids|structured fluids]]. 
 ### Structure of soft matter
