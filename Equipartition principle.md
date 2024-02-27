@@ -4,7 +4,7 @@ tags:
   - notdone
 Resources: https://en.wikipedia.org/wiki/Equipartition_theorem
 ---
-make a summary of the following:
+
 
 The Equipartition Theorem is a fundamental concept in thermodynamics that describes the distribution of energy among the particles in a system. It states that the total energy of a system can be divided into two parts: kinetic and potential. The kinetic energy is the energy associated with the motion of the particles, while the potential energy is the energy associated with their position or configuration.
 
@@ -16,6 +16,7 @@ In classical statistical mechanics, the equipartition theorem relates the temper
 
 it predicts that every atom in a monatomic ideal gas has an average kinetic energy of 3/2k_B_T in thermal equilibrium, where k_B is the Boltzmann constant and T is the (thermodynamic) temperature. More generally, equipartition can be applied to any classical system in thermal equilibrium, no matter how complicated. It can be used to derive the ideal gas law
 
+--- 
 
 The Equipartition Theorem is a fundamental concept in thermodynamics that describes the distribution of energy among the particles in a system. The theorem states that the total energy of a system can be divided into two parts: kinetic and potential. The kinetic energy is the energy associated with the motion of the particles, while the potential energy is the energy associated with their position or configuration.
 
