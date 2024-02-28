@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: "true"
 ---
 This theory describes interactions between macroscopic particles, starting from the hypothesis that the [[Soft Matter/van der Walls forces#^87bff2|London forces definition]] could be also used in the case of macroscopic particles summing all the forces between the molecules inside the macroscopic particles.
 To compute the force we can use some expression related to the geometry of the problem(in tables), and use the Hamaker constant that includes all the chemistry related parameter of the problem.
