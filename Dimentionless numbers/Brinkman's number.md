@@ -1,7 +1,6 @@
 ---
-dg-publish: 
-tags:
-  - notdone
+dg-publish: "true"
+tags: 
 Resources: https://en.wikipedia.org/wiki/Brinkman_number
 ---
 >[! definition]

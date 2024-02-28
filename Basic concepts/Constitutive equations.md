@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: "true"
 ---
 >[!definition]
 > Constitutive equations relate [[Stress tensor|stress tensor]] components to the quantities already present in the balance equations. 
