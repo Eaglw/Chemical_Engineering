@@ -11,5 +11,3 @@ Linear Congruential RNGs (LCRNGs), also known as multiplicative or Lehmer RNGs, 
 Gaussian RNGs, on the other hand, generate random numbers that follow a Gaussian distribution, which is useful because many physical phenomena can be modeled using a gaussian distribution. Examples of Gaussian RNGs include the Box-Muller method and the Central Limit theorem method. The Box-Muller method generates one gaussian every uniform random number, while the Central Limit theorem method generates one gaussian number every twelve uniform numbers, but the Central Limit theorem is computationally lighter.
 
 Wiener processes are a type of stochastic process that describes the evolution of a system with random fluctuations over time. 
-
-prova di modifica per git 
