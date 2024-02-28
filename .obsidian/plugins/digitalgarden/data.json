@@ -1,6 +1,6 @@
 {
   "githubRepo": "Chemical-Engineering-s-wiki",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "eaglw",
   "gardenBaseUrl": "",
   "prHistory": [
@@ -9,6 +9,7 @@
   "baseTheme": "dark",
   "theme": "{\"name\":\"Synthwave '84\",\"author\":\"George Jose\",\"repo\":\"G2Jose/synthwave-84-obsidian-theme\",\"screenshot\":\"screenshot-512x288.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/G2Jose/synthwave-84-obsidian-theme/HEAD/theme.css\"}",
   "faviconPath": "",
+  "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,
   "siteName": "Chemical Engineering of Product's wiki",
   "mainLanguage": "en",

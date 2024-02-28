@@ -1,14 +1,12 @@
 [
-  "obsidian-to-anki-plugin",
   "obsidian-columns",
   "obsidian-minimal-settings",
   "callout-manager",
   "obsidian-git",
-  "digitalgarden",
-  "obsidian-banners",
   "ollama",
   "templater-obsidian",
   "obsidian-paste-image-rename",
   "obisidian-note-linker",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "digitalgarden"
 ]
