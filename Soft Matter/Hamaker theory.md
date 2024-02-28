@@ -6,6 +6,6 @@ To compute the force we can use some expression related to the geometry of the p
 ![[Helper/media/Hamaker mechanism.png]]
 ## Hamaker constant
 $\LARGE A=\pi^{2}C \rho_{1} \rho_{2}$ 
-where $\rho_{i}$ are the number of atoms per unit volume, $C$ is the coefficient of the atom-pair potential. This constant is true only in vacuum, in the present of a solvent is modified. 
+where $\rho_{i}$ are the number of atoms per unit volume, $C$ is the coefficient of the atom-pair potential. This constant is true only in vacuum, in the presence of a solvent is modified. 
 In the general case with a solvent, t*he first and third index describes the types of the interacting particles* and the *second index describes the medium* in which they are dissolved
 ^649420
