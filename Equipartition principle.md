@@ -2,6 +2,7 @@
 dg-publish: 
 tags:
   - notdone
+  - ai
 Resources: https://en.wikipedia.org/wiki/Equipartition_theorem
 ---
 
