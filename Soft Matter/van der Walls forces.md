@@ -33,7 +33,7 @@ This attractive force occurs when a polar molecule induces a dipole moment in an
 <!--ID: 1698399778455-->
 
 ### Interaction between an ion and uncharged molecule
-A molecule of polarizability $\alpha$ at a distance r from an ion of charge $ze$ feels and electric field $E= \frac{ze}{4\pi \epsilon_{0}\epsilon r^{2}}$, that induces a dipole moment:
+A molecule of polarizability $\alpha$ at a distance r from an ion of charge $ze$ feels and electric field $\large E= \frac{ze}{4\pi \epsilon_{0}\epsilon r^{2}}$, that induces a dipole moment:
 $\Large u_{i}= \alpha E= \frac{\alpha ze}{4\pi \epsilon_{0}\epsilon r^{2}}$ 
 This results in an attractive force between the ion and the molecule.
 <!--ID: 1698399778456-->
