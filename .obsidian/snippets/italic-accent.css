@@ -1,0 +1,14 @@
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: #86da5f;
+  font-style: normal !important; 
+  font-weight: normal !important;
+}
+
+/* Different color for italic */
+.cm-em,
+.markdown-preview-section em {
+  color: #ad5350;
+  font-style: normal !important; 
+}
