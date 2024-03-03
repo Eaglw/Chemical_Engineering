@@ -24,7 +24,7 @@ The energy balance is a scalar equation.
 2. If the fluid is a *multicomponent mixture* the conductive heat flux becomes:  $\LARGE \textbf{q} = -k \nabla T + \sum_{i=1}^{N} h_{i} \boldsymbol{j_{i}}$  where: 
 	-  $h_{i}$ is the specific enthalpy of the i-th species in $\frac{J}{Kg}$ 
 	-  $\boldsymbol{j_{i}}$ is the diffusive mass flux of the i-th species in $\frac{Kg}{m^{2}s}$ 
-3. For a *newtonian fluid* we can use the deviatoric part of it's [[Advanced Transport Phenomena/Costitutive eq. for Newtornian fluids|constitutive equation]] in the viscous dissipation term:
+3. For a *newtonian fluid* we can use the deviatoric part of it's [[Basic concepts/Costitutive eq. for Newtornian fluids|constitutive equation]] in the viscous dissipation term:
 	$\LARGE \boldsymbol{\sigma} : \nabla \textbf{u} = \frac{1}{2} \eta \sum_{j} \sum_{i} \left( \frac{\partial u_{i}}{\partial x_{j}} + \frac{\partial u_{j}}{\partial x_{i}} \right)^{2} + \left(  \kappa -\frac{2}{3} \eta  \right)\left( \nabla \cdot \textbf{u} \right)^{2} = \eta \Phi_{v} + \left(  \kappa -\frac{2}{3} \eta  \right)\left( \nabla \cdot \textbf{u} \right)^{2}$
 	where:
 	$\Phi_{v}= \frac{1}{2}\sum_{j} \sum_{i} \left( \frac{\partial u_{i}}{\partial x_{j}} + \frac{\partial u_{j}}{\partial x_{i}} \right)^{2}$  	
