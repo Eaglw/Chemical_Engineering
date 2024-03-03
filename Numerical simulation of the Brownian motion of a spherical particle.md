@@ -1,5 +1,8 @@
 ---
-dg-publish:
+dg-publish: 
+tags:
+  - ai
+  - notdone
 ---
 Stochastic differential equations (SDEs) are mathematical models that describe the evolution of a system over time in the presence of random fluctuations or noise. To model the [[Basic concepts/Stochastic variable|stochastic]] terms in SDEs, we often use random number generators (RNGs) to generate random numbers that follow a certain distribution, such as a Gaussian distribution.
 
