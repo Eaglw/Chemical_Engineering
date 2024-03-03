@@ -5,7 +5,7 @@ tags:
   - ai
 Resources: https://en.wikipedia.org/wiki/Equipartition_theorem
 ---
-prova
+
 
 The Equipartition Theorem is a fundamental concept in thermodynamics that describes the distribution of energy among the particles in a system. It states that the total energy of a system can be divided into two parts: kinetic and potential. The kinetic energy is the energy associated with the motion of the particles, while the potential energy is the energy associated with their position or configuration.
 
