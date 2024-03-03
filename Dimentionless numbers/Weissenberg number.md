@@ -1,7 +1,6 @@
 ---
-dg-publish: 
+dg-publish: "true"
 tags:
-  - notdone
 ---
 >[!definition]
 >$\large Wi=\frac{\lambda}{t_{D}}$

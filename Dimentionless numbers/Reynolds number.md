@@ -1,7 +1,6 @@
 ---
-dg-publish: 
+dg-publish: "true"
 tags:
-  - notdone
 ---
 >[!Definition]
 >$\Large Re=\frac{\rho \mathbf{u}D}{\eta}$
