@@ -4,7 +4,7 @@ tags:
   - notdone
 ---
 >[!definition]
->A structure is unstable, so it’s not in equilibrium, if there are partial or improper constraints. 
+>A structure is unstable, so it’s not in equilibrium, if there are [[Partial constraints|partial]] or [[Improper constraints|improper]] constraints. 
 
 Evaluating the body’s degrees of freedom minus the saturated degrees of freedom provided by the supports can be misleading. 
-The results can be zero, but the presence of improper constraints implies that the structure is still unstable. An easy verification can be made with the theory of center.
+The results can be zero, but the presence of improper constraints implies that the structure is still unstable. An easy verification can be made with the [[Structure Engineering/3. Basic/Theory of Centers|theory of centers]]
