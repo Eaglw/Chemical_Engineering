@@ -29,7 +29,7 @@ So larger and heavier atoms usually exhibits stronger dispersion forces than sma
 
 ### Debye forces 
 Caused by the interaction between a *permanent dipole* and a *temporary dipole*.
-This attractive force occurs when a polar molecule induces a dipole moment in an initially nonpolar molecule. The strength of this attraction is directly proportional to the polarizability of the molecule, which, in turn, is linked to its dimensions.
+This attractive force occurs when a polar molecule induces a dipole moment in an initially non polar molecule. The strength of this attraction is directly proportional to the polarizability of the molecule, which, in turn, is linked to its dimensions.
 <!--ID: 1698399778455-->
 
 ### Interaction between an ion and uncharged molecule
