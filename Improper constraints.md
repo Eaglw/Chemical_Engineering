@@ -5,4 +5,4 @@ tags:
 ---
 A structure or one of its body has *improper constraints* 
 if some of its reactions are *concurrent or parallel*.
-It means that even if the raw number of *supports* reactions satisfies the [[Structure Engineering/3. Basic/Equations of equilibrium|equilibrium equations]], 
+It means that even if the raw number of *supports* reactions satisfies the [[Structure Engineering/3. Basic/Equations of equilibrium|equilibrium equations]], the structure is still [[Structure Engineering/3. Basic/Stable structure|unstable]].
