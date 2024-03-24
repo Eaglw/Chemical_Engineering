@@ -1,7 +1,6 @@
 ---
 dg-publish: "false"
-tags:
-  - notdone
+tags: []
 ---
 >[!definition]
 >It blocks axial movements and rotation 

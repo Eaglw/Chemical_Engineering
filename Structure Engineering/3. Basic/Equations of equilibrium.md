@@ -1,7 +1,6 @@
 ---
 dg-publish: "false"
-tags:
-  - notdone
+tags: []
 ---
 >[!definition]
 >$\LARGE\sum F_{x}=0;\sum F_{y}=0;\sum F_{z}=0$

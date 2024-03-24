@@ -1,7 +1,6 @@
 ---
 dg-publish: "false"
-tags:
-  - notdone
+tags: []
 ---
 >[!definition]
 >The *degrees of freedom* represent the number of cartesian coordinates necessary to fully describe the configuration of the body. 
