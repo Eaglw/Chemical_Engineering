@@ -1,7 +1,6 @@
 ---
 dg-publish: "false"
-tags:
-  - notdone
+tags: []
 ---
 >[!definition]
 >Any displacement of a rigid body AB an its mean plan can be described by a rotation around an absolute center of rotation C that can be determined at the intersection of the normal to the displacement vectors of two generic points of the body, with respect to their initial positions

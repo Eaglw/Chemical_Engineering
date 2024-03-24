@@ -1,7 +1,6 @@
 ---
 dg-publish: "false"
-tags:
-  - notdone
+tags: []
 ---
 A structure is *statically determinate* if it's possible to determine all its forces with the [[Structure Engineering/3. Basic/Equations of equilibrium|equations of equilibrium]].
 If there are more unknowns than equations the structure is *statically indeterminate*.

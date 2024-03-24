@@ -1,7 +1,6 @@
 ---
 dg-publish: "false"
-tags:
-  - notdone
+tags: []
 ---
 >[!definition]
 >It blocks both the horizontal and the vertical movements, but rotation is still possible
