@@ -8,6 +8,22 @@ tags:
 
 ## Derivation
 Referring to an infinitesimal slice of a beam, we can always assume that the distributed load is constant. We also assume that there are no concentrated loads applied in the infinitesimal slice. In this condition, we can safely assume that also the variation of the [[Structure Engineering/3. Basic/Internal characteristics of solicitations|internal characteristics of solicitations]] is infinitesimal.
+--- start-multi-column: ExampleRegion1  
+```column-settings  
+number of columns: 2  
+largest column: left  
+```
+
+Text displayed in column 1.
+
+--- end-column ---
+
+Text displayed in column 2.
+
+--- end-multi-column
+
+
+
 
 ## Application
 
