@@ -11,20 +11,21 @@ Referring to an infinitesimal slice of a beam, we can always assume that the dis
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
 number of columns: 2  
-largest column: left  
+largest column: right  
 ```
 
-Text displayed in column 1.
+![[Helper/media/Indefinite equations of equilibrium.png|300]]
 
 --- end-column ---
 
-Text displayed in column 2.
+Vertical equilibrium:
+$T-T-dT-qdx=0 \rightarrow \frac{dT}{dx}=-q$
+
+Rotational equilibrium:
+$M+Tdx-qdx\cdot \frac{dx}{2}-M-dM=0 \rightarrow \frac{dM}{dx}=T$
 
 --- end-multi-column
-
-
-
-
+The term $qdx\cdot \frac{dx}{2}$ has been canceled because it's an infinitesimal of higher order 
 ## Application
 
 
