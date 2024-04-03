@@ -13,8 +13,7 @@ The main takeaway of these equations is the relation between q(x), T(x) and M(x)
 $\large T(x)= -\int q(x) \, dx+c_{1}$
 $\large M(x)=\int T(x) \, dx+c_{2}$
 where $c_{1}$ and $c_{2}$ can be derived applying the boundary conditions. 
-$q=0 \rightarrow $
-
+$\large q=0 \rightarrow T=const \rightarrow linear \ M; \quad q=const\rightarrow linear\ T \rightarrow parabolic\ M$
 ## Derivation
 Referring to an infinitesimal slice of a beam, we can always assume that the distributed load is constant. We also assume that there are no concentrated loads applied in the infinitesimal slice. In this condition, we can safely assume that also the variation of the [[Structure Engineering/3. Basic/Internal characteristics of solicitations|internal characteristics of solicitations]] is infinitesimal.
 --- start-multi-column: ExampleRegion1  
