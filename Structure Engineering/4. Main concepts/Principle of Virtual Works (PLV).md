@@ -11,7 +11,7 @@ The virtual displacement d* is an infinitesimal displacement compatible with the
 
 ## Application
 1. Suppress the reaction that we want to know. The system became 1 time unstable (l=1), so it can move.
-2. With the [[Collapsible mechanism theorem|collapsible mechanism]], check if the centers of all the bodies are alligned.
+2. With the [[Structure Engineering/4. Main concepts/Collapsible mechanism theorem|collapsible mechanism]], check if the centers of all the bodies are alligned.
 3. Assign a virtual displacement d* to the body
 4. Calculate the displacement in the application point of the forces and the reaction that we are interested in
 5. Find the reaction imposing the global virtual work $\delta L=0$

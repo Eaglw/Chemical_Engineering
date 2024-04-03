@@ -17,4 +17,4 @@ The conventions for the resultants are:
 - *Shear forces* $T$ or $V>0$: if create a *clockwise* moment respect to the center of the element.
 - *Moment* $M>0$: if it *tends the bottom fibers*.
 
-rispettano le [[Structure Engineering/3. Basic/Indefinite equations of equilibrium|indefinite equations of equilibrium]] 
+rispettano le [[Structure Engineering/4. Main concepts/Indefinite equations of equilibrium|indefinite equations of equilibrium]] 
