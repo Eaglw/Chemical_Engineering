@@ -31,4 +31,3 @@ The term $qdx\cdot \frac{dx}{2}$ has been canceled because it's an infinitesimal
 
 $T(x)= -\int q(x) \, dx+c_{1}$
 $M(x)=\int T(x) \, dx+c_{2}$
-
