@@ -22,5 +22,18 @@ ID: 1713263731920
 [[Structure Engineering/3. Basic/Theory of Centers|Theory of Centers]]: If we can find ad absolute rotation center the body is not in equilibrium, and viceversa.
 Euler say that any movement can be seen as a rotation, so if we have a center no equilibrium.
 
+### Hinge or pin support, dof and center
+Blocks axial and orthogonal displacements but not rotation. 2 dos saturated in 2D.
+The center is only itself.
 
-### 
+### Roller or Link , dof and center
+Blocks only axial displacements, 1 dof saturated.
+The center can be any point of it's axis, also infinite.
+
+### Slider, dof and center
+Blocks axial displacements and rotations, but not orthogonal displacements. 2 dof saturated.
+the center is on its axis only at infinite.
+
+### Double slider, dof and center
+Blocks only rotations. 1 dof saturated. 
+Center can be at infinite in every direction.
