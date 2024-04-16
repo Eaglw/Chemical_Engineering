@@ -10,4 +10,4 @@ The [[Structure Engineering/3. Basic/Rigid body|Rigid body]] is an approximation
 the [[Structure Engineering/3. Basic/Degrees of freedom (structure)|Degrees of freedom]] are the number of cartesian coordinates needed in order to fully describe the configuration of a body. 3 in 2D 6 in 3D.
 
 ### what is the linearization pf rigidity constraints and in which cases it can be applied?
-We can approximate a circular trajectory
+We can approximate a circular trajectory with its tangent, in the hp of small displacements, that are that we encounter in structural analysis.
