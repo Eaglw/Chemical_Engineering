@@ -17,6 +17,10 @@ ID: 1713263731916
 We can approximate a circular trajectory with its tangent, in the hp of small displacements, that are that we encounter in structural analysis.
 ID: 1713263731920
 
-### what the Euler th is and what is its use?
-"Any displacement of a rigid body AB an its mean plan can be described by a rotation around an absolute center of rotation C that can be determined at the intersection of the normal to the displacement vectors of two generic points of the body, with respect to their initial positions"
-If 
+### which is the relation between the Euler th and the theory of centers? + enunciato del th.
+[[Structure Engineering/3. Basic/Euler theorem (structure)|Euler theorem]]: "Any displacement of a rigid body AB an its mean plan can be described by a rotation around an absolute center of rotation C that can be determined at the intersection of the normal to the displacement vectors of two generic points of the body, with respect to their initial positions"
+[[Structure Engineering/3. Basic/Theory of Centers|Theory of Centers]]: If we can find ad absolute rotation center the body is not in equilibrium, and viceversa.
+Euler say that any movement can be seen as a rotation, so if we have a center no equilibrium.
+
+
+### 
