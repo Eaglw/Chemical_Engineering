@@ -9,6 +9,8 @@ The key aspect is that they are *small enough to feel the* [[Thermal motion|ther
 
 ### Is there a range of length-scale to talk about colloidal particles?
 Colloidal particles do not have a fixed length scale, there are no absolute bounds. The colloidal nature of particles is determined by their behavior in relation to gravitational and fluid flow forces, which are *dependent on both the particle and the medium* in which they exist. *In general, particles that exhibit [[Soft Matter/Brownian motion|Brownian motion]] are classified as colloidal.*
+ID: 1713263558472
+
 
 ## Colloidal stability
 We can divide the systems into:
