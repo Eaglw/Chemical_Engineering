@@ -13,3 +13,11 @@ $\LARGE\sum M_{x}=0;\sum M_{y}=0;\sum M_{z}=0$
 
 ### What is the convenction for positive moments?
 counter-clockwise 
+
+### what is the Principle of sectioning?
+[[Structure Engineering/3. Basic/Principle of sectioning|Principle of sectioning]] tells us that if a structure is in equilibrium every part of the structure must be in equilibrium, so we can cut the structure in every part and apply the [[Structure Engineering/3. Basic/Equations of equilibrium|Equations of equilibrium]].
+
+### are the internal characteristic of solicitations continouos functions?
+yes unless there is some load applied in the section that we are considering. It can be both a punctual or a distributed load.
+
+### convenction for
