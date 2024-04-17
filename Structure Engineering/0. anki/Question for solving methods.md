@@ -43,3 +43,17 @@ In this case of no concentrated loads, the only case in which we can apply the [
 This can be seen in the limits of $dx \rightarrow 0$ in the second form of the equations, that gives $dT=dM=0$, so continuous functions.
 
 ###  how to apply the internal characteristic of solicitations
+
+$\large T(x)= -\int q(x) \, dx+c_{1}$
+$\large M(x)=\int T(x) \, dx+c_{2}$
+where $c_{1}$ and $c_{2}$ can be derived applying the boundary conditions. 
+$\large q=0 \rightarrow T=const \rightarrow linear \ M; \quad q=const\rightarrow linear\ T \rightarrow parabolic\ M$
+### how to derive the indefinite equations of equilibrium?
+![[Helper/media/Indefinite equations of equilibrium.png|300]]
+Vertical equilibrium:
+$T-T-dT-qdx=0 \rightarrow \frac{dT}{dx}=-q$
+
+Rotational equilibrium:
+$M+Tdx-qdx\cdot \frac{dx}{2}-M-dM=0 \rightarrow \frac{dM}{dx}=T$
+
+The term $qdx\cdot \frac{dx}{2}$ has been canceled because it's an infinitesimal of higher order 
