@@ -3,6 +3,7 @@ dg-publish: "false"
 tags:
   - notdone
 ---
+FILE TAGS = statics
 ### what a rigid body is?
 The [[Structure Engineering/3. Basic/Rigid body|Rigid body]] is an approximation to consider the deformations inside a body negligible.
 ID: 1713263731911
@@ -37,3 +38,6 @@ the center is on its axis only at infinite.
 ### Double slider, dof and center
 Blocks only rotations. 1 dof saturated. 
 Center can be at infinite in every direction.
+
+### when supports can be impoper?
+If some reactions are concurrent or parallel the structure can be unstable even if the number of the supports respect the 3t-s=0 relation.
