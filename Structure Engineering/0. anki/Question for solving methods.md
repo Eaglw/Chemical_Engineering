@@ -19,7 +19,7 @@ ID: 1713347600897
 
 
 ### what is the Principle of sectioning?
-[[Structure Engineering/3. Basic/Principle of sectioning|Principle of sectioning]] tells us that if a structure is in equilibrium every part of the structure must be in equilibrium, so we can cut the structure in every part and apply the [[Structure Engineering/3. Basic/Equations of equilibrium|Equations of equilibrium]].
+[[Structure Engineering/3. Basic/Sectioning principle|Sectioning principle]] tells us that if a structure is in equilibrium every part of the structure must be in equilibrium, so we can cut the structure in every part and apply the [[Structure Engineering/3. Basic/Equations of equilibrium|Equations of equilibrium]].
 ID: 1713347600898
 
 
