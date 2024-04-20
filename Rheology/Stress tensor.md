@@ -4,11 +4,14 @@ tags:
   - notdone
 ---
 >[!definition]
->$\LARGE f=T\cdot A_{n}$
+>$\LARGE f=T\cdot A \mathbf{n}$
 
 where:
-- $f$ is the force exchanged through the contact surface
-- 
+- $f$ is the force that the surroundings exert on the element through the contact surface
+- $T$ is the *stress tensor* in $\frac{N}{m^{2}}$
+- $A$ is the area of the contact surface
+- $n$ is the normal unit vector to the surface, pointing *outwards* of the element considered
+
 
 
 
