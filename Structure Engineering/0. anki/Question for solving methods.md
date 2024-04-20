@@ -45,7 +45,7 @@ ID: 1713434586667
 
 
 ###  how to apply the internal characteristic of solicitations
-
+[[Structure Engineering/3. Basic/Internal characteristics of solicitations|Internal characteristics of solicitations]]
 $\large T(x)= -\int q(x) \, dx+c_{1}$
 $\large M(x)=\int T(x) \, dx+c_{2}$
 where $c_{1}$ and $c_{2}$ can be derived applying the boundary conditions. 
@@ -53,6 +53,7 @@ $\large q=0 \rightarrow T=const \rightarrow linear \ M; \quad q=const\rightarrow
 ID: 1713434586698
 
 ### how to derive the indefinite equations of equilibrium?
+[[Structure Engineering/4. Main concepts/Indefinite equations of equilibrium|Indefinite equations of equilibrium]]
 ![[Helper/media/Indefinite equations of equilibrium.png|300]]
 Vertical equilibrium:
 $T-T-dT-qdx=0 \rightarrow \frac{dT}{dx}=-q$
@@ -65,6 +66,7 @@ $M+Tdx-qdx\cdot \frac{dx}{2}-M-dM=0 \rightarrow \frac{dM}{dx}=T$
 The term $qdx\cdot \frac{dx}{2}$ has been canceled because it's an infinitesimal of higher order.
 
 ### Principle of Virtual Work
+[[Structure Engineering/4. Main concepts/Principle of Virtual Works (PLV)|Principle of Virtual Works (PLV)]]
 Necessary and sufficient condition for the position $S_{0}$ of the system S, having smooth bilateral supports, to be an equilibrium condition is that the virtual work $\delta L$ of forces is equal to zero for each virtual displacement d* from the position $S_{0}$
 $\large \delta L=0$ for any virtual displacement
 The virtual displacement d* is an infinitesimal displacement compatible with the supports.
@@ -72,11 +74,13 @@ ID: 1713434586705
 
 
 ### Purpose of the PLV?
+[[Structure Engineering/4. Main concepts/Principle of Virtual Works (PLV)|Principle of Virtual Works (PLV)]]
 The PLV is a useful tool for determining only one reaction of a support without having to solve the entire structure. This can be particularly advantageous in cases where solving the entire structure is too complex or time-consuming. But it can also be applied to each one of the supports in order to provide a more comprehensive analysis of the system.
 ID: 1713434586708
 
 
 ### Theorem of collpsible mechanism?
+[[Structure Engineering/4. Main concepts/Collapsible mechanism theorem|Collapsible mechanism theorem]]
 Necessary and sufficient condition for the system to be 1 time unstable (l=1) is that for each couple of bodies i and j the absolute centers of rotation $C_{i}$ and $C_{j}$ and the relative center of rotation $C_{ij}$ are aligned
 This theorem is applicable only for structure composed by at least 2 bodies
 ID: 1713434586711
