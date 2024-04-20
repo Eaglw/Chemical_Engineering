@@ -12,12 +12,13 @@ where:
 - $A$ is the area of the contact surface
 - $n$ is the normal unit vector to the surface, pointing *outwards* of the element considered
 
-## Components of the stress tensor
 
+## Components of the stress tensor
 --- start-multi-column: 
 ```column-settings  
 number of columns: 2  
-largest column: right  
+largest column: right 
+border: disabled
 ```
 ![[Helper/media/Stress tensor.png|350]]
 
