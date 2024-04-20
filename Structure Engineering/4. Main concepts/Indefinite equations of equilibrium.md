@@ -16,7 +16,7 @@ where $c_{1}$ and $c_{2}$ can be derived applying the boundary conditions.
 $\large q=0 \rightarrow T=const \rightarrow linear \ M; \quad q=const\rightarrow linear\ T \rightarrow parabolic\ M$
 ## Derivation
 Referring to an infinitesimal slice of a beam, we can always assume that the distributed load is constant. We also assume that there are no concentrated loads applied in the infinitesimal slice. In this condition, we can safely assume that also the variation of the [[Structure Engineering/3. Basic/Internal characteristics of solicitations|internal characteristics of solicitations]] is infinitesimal.
---- start-multi-column: ExampleRegion1  
+--- start-multi-column: 
 ```column-settings  
 number of columns: 2  
 largest column: right  

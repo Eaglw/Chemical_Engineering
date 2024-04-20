@@ -14,6 +14,24 @@ where:
 
 ## Components of the stress tensor
 
+--- start-multi-column: 
+```column-settings  
+number of columns: 2  
+largest column: right  
+```
+![[Helper/media/Stress tensor.png|350]]
+--- end-column ---
+
+Vertical equilibrium:
+$T-T-dT-qdx=0 \rightarrow \frac{dT}{dx}=-q$
+
+Rotational equilibrium:
+$M+Tdx-qdx\cdot \frac{dx}{2}-M-dM=0 \rightarrow \frac{dM}{dx}=T$
+
+--- end-multi-column
+
+
+
 
 $\LARGE ||T||=\begin{bmatrix}T_{xx}&T_{xy}&T_{xz}\\T_{yx}&T_{yy}&T_{yz}\\T_{zx}&T_{zy}&T_{zz}\end{bmatrix}=\begin{bmatrix}\sigma_{xx}&\tau_{xy}&\tau_{xz} \\ \tau_{yx}&\sigma_{yy}&\tau_{yz}\\ \tau_{zx}&\tau_{zy}&\sigma_{zz}\end{bmatrix}$
 
