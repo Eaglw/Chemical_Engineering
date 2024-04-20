@@ -11,7 +11,7 @@ where:
 4. $\textbf{D}$ is the [[Rate of deformation tensor|rate of deformation tensor]], the symmetric part of the [[Velocity gradient tensor|velocity gradient tensor]] in $\frac{1}{s}$
 5. $\kappa$ is the fluid volume viscosity
 
-This formula is valid for a [[Newtonian fluid|newtonian fluid]] and relates the [[Stress tensor|stress tensor]] components to other unknowns already present in the mass and momentum balance, in order to close the system.
+This formula is valid for a [[Newtonian fluid|newtonian fluid]] and relates the [[Rheology/Stress tensor|stress tensor]] components to other unknowns already present in the mass and momentum balance, in order to close the system.
 ## Compact form 
 In a more compact form, we can express the constitutive equation as:
 $\LARGE \textbf{T} = -p \textbf{I} + \boldsymbol{\sigma}$ 

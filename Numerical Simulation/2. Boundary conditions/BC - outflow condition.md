@@ -8,7 +8,7 @@ tags:
 >$\large \mathbf{T\cdot n}=-p_{out}\mathbf{n}$
 
 where:
-1. $\mathbf{T}$ is the [[Stress tensor|stress tensor]].
+1. $\mathbf{T}$ is the [[Rheology/Stress tensor|stress tensor]].
 2. $\mathbf{n}$ is the unit normal vector pointing outward. 
 
 Physically, this condition represents an outlet in an ambient at pressure $p_{out}$   
