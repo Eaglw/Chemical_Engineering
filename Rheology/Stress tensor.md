@@ -13,6 +13,7 @@ where:
 - $n$ is the normal unit vector to the surface, pointing *outwards* of the element considered
 
 
+$\begin{matrix}1&2&3\\4&5&6\end{matrix}$
 
 
 The [[Rheology/Stress|stress]] generally depends on how the contact surface is oriented.   
