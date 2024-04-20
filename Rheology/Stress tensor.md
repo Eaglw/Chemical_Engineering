@@ -13,7 +13,7 @@ where:
 - $n$ is the normal unit vector to the surface, pointing *outwards* of the element considered
 
 
-$\begin{matrix}1&2&3\\4&5&6\end{matrix}$
+$\LARGE ||T||=\begin{bmatrix}T_{xx}&T_{xy}&T_{xz}\\T_{yx}&T_{yy}&T_{yz}\\T_{zx}&T_{zy}&T_{zz}\end{bmatrix}=\begin{bmatrix}\sigma_{xx}&\tau_{xy}&\tau_{xz} \\ \tau_{yx}&\sigma_{yy}&\tau_{yz}\\ \tau_{zx}&\tau_{zy}&\sigma_{zz}\end{bmatrix}$
 
 
 The [[Rheology/Stress|stress]] generally depends on how the contact surface is oriented.   
