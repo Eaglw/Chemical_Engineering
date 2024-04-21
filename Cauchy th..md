@@ -27,6 +27,19 @@ border: disabled
 
 ![[Helper/media/Cauchy th.-1.png]]
 
-If the surface of the plane defined by $\underline{n}$ is $dA$, the projections on the axis will be $dA_{x}=dA\cdot \alpha x; dA_{y}$
+If the surface of the plane defined by $\underline{n}$ is $dA$, the projections on the axis will be:
+$dA_{x}=dA\cdot \alpha x; dA_{y}=dA\cdot \alpha y$
+
+---end-multi-column
+--- start-multi-column: 
+```column-settings  
+number of columns: 2
+border: disabled
+```
+
+![[Helper/media/Cauchy th.-2.png]]---end-column
+
+$t_{nx}\cdot dA-\sigma_{xx}dA_{x}-\tau_{yx}dA_{y}-\tau_{zx}dA_{z}+F_{x}dV=0$
+$dA\left( t_{nx}-\sigma_{xx}\alpha_{x}-\tau_{yx}\alpha y-\tau_{zx}\alpha z+\frac{dV}{dA} \right)$
 
 ---end-multi-column
