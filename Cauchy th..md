@@ -15,34 +15,13 @@ $t_{ny}=\tau_{xy}dx+\sigma_{yy}dy+\tau_{zy}dz$
 $t_{nz}=\tau_{xz}dx+\tau_{yz}dy+\sigma_{zz}dz$
 
 ## Demonstration
+
+![[Helper/media/Cauchy th..png|200]]
 Considering an infinitesimal *tetrahedron* with 3 faces parallel to x,y,z and the last one described by $\underline{n}$.
---- start-multi-column: 
-```column-settings  
-number of columns: 2
-border: disabled
-```
-![[Helper/media/Cauchy th..png]]
-
---- end-column ---
-
-![[Helper/media/Cauchy th.-1.png]]
-
+![[Helper/media/Cauchy th.-1.png|200]]
 If the surface of the plane defined by $\underline{n}$ is $dA$, the projections on the axis will be:
 $dA_{x}=dA\cdot \alpha x; dA_{y}=dA\cdot \alpha y$
-
----end-multi-column
-
---- start-multi-column: 
-```column-settings  
-number of columns: 2
-largest column: right
-border: disabled
-```
-
-![[Helper/media/Cauchy th.-2.png]]
-
---- end-column ---
-
+![[Helper/media/Cauchy th.-2.png|200]]
 Applying the [[Structure Engineering/3. Basic/Equations of equilibrium|equations of equilibrium]] on x axis:
 $t_{nx}\cdot dA-\sigma_{xx}dA_{x}-\tau_{yx}dA_{y}-\tau_{zx}dA_{z}+F_{x}dV=0$
 Dividing by $dA$:
@@ -51,4 +30,4 @@ $\frac{dV}{dA}$ is an infinitesima of higher order respect to the other, so:
 $t_{nx}=\sigma_{xx}dx+\tau_{yx}dy+\tau_{zx}dz$
 
 
----end-multi-column
+
