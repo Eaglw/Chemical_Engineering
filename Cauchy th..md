@@ -31,15 +31,24 @@ If the surface of the plane defined by $\underline{n}$ is $dA$, the projections 
 $dA_{x}=dA\cdot \alpha x; dA_{y}=dA\cdot \alpha y$
 
 ---end-multi-column
+
 --- start-multi-column: 
 ```column-settings  
 number of columns: 2
+largest column: right
 border: disabled
 ```
 
-![[Helper/media/Cauchy th.-2.png]]---end-column
+![[Helper/media/Cauchy th.-2.png]]
 
+--- end-column ---
+
+Applying the [[Structure Engineering/3. Basic/Equations of equilibrium|equations of equilibrium]] on x axis:
 $t_{nx}\cdot dA-\sigma_{xx}dA_{x}-\tau_{yx}dA_{y}-\tau_{zx}dA_{z}+F_{x}dV=0$
-$dA\left( t_{nx}-\sigma_{xx}\alpha_{x}-\tau_{yx}\alpha y-\tau_{zx}\alpha z+\frac{dV}{dA} \right)$
+Dividing by $dA$:
+$dA\left( t_{nx}-\sigma_{xx}\alpha_{x}-\tau_{yx}\alpha y-\tau_{zx}\alpha z+F_{x}\frac{dV}{dA} \right)=0$
+$\frac{dV}{dA}$ is an infinitesima of higher order respect to the other, so:
+$t_{nx}=\sigma_{xx}dx+\tau_{yx}dy+\tau_{zx}dz$
+
 
 ---end-multi-column
