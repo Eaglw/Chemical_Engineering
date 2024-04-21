@@ -2,6 +2,7 @@
 dg-publish: "false"
 tags:
   - notdone
+Resources: https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/dd8d998533249b8496b2cc0a241dd478_MIT2_25F13_sym_of_str_ten.pdf
 ---
 >[!definition]
 >$\LARGE f=T\cdot A \mathbf{n}$
@@ -29,9 +30,8 @@ $\Large ||T||=\begin{bmatrix}T_{xx}&T_{xy}&T_{xz}\\T_{yx}&T_{yy}&T_{yz}\\T_{zx}&
 --- end-multi-column
 The first index refers to the axis normal to the plane of the stress, indentifying it. The second index refers to the direction of the stress itself. 
 $\tau_{xy}$ is positive if directed in a positive y direction, on the face having positive x as a normal vector.
-The stress tensor is *symmetric*, so $\tau_{ij}=\tau_{ji}$. It's completely described with 6 values.
-
-
+The stress tensor is *symmetric*, $\tau_{ij}=\tau_{ji}$, so it's completely described with 6 values.
+This can be demonstrated with the rotational equilibrium around each axis(see [resources](https://ocw.mit.edu/courses/2-25-advanced-fluid-mechanics-fall-2013/dd8d998533249b8496b2cc0a241dd478_MIT2_25F13_sym_of_str_ten.pdf)). 
 
 
 
