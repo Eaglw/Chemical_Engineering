@@ -27,7 +27,9 @@ border: disabled
 $\Large ||T||=\begin{bmatrix}T_{xx}&T_{xy}&T_{xz}\\T_{yx}&T_{yy}&T_{yz}\\T_{zx}&T_{zy}&T_{zz}\end{bmatrix}=\begin{bmatrix}\sigma_{xx}&\tau_{xy}&\tau_{xz} \\ \tau_{yx}&\sigma_{yy}&\tau_{yz}\\ \tau_{zx}&\tau_{zy}&\sigma_{zz}\end{bmatrix}$
 
 --- end-multi-column
-The first index refers to the axis normal to the plane of the stress, indentifying it. The second index refers to the direction of the stress itself. The stress tensor is *symmetric*, so $\tau_{ij}=\tau_{ji}$. It's completely described with 6 values.
+The first index refers to the axis normal to the plane of the stress, indentifying it. The second index refers to the direction of the stress itself. 
+$\tau_{xy}$ is positive if directed in a positive y direction, on the face having positive x as a normal vector.
+The stress tensor is *symmetric*, so $\tau_{ij}=\tau_{ji}$. It's completely described with 6 values.
 
 
 
