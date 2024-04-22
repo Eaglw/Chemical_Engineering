@@ -30,6 +30,9 @@ ID: 1713347600899
 
 ### convenction for internal characteristic of solicitations?
 ![[Helper/media/Internal characteristics of solicitations.png]]
+N is positive for traction
+V is positive if it creates a clockwise moment
+M is positive if it tends the lower fibes
 ID: 1713347600901
 
 ### expression of the indefinite equations of equilibrium? when can they be applied?
@@ -44,8 +47,8 @@ This can be seen in the limits of $dx \rightarrow 0$ in the second form of the e
 ID: 1713434586667
 
 
-###  how to apply the internal characteristic of solicitations
-[[Structure Engineering/3. Basic/Internal characteristics of solicitations|Internal characteristics of solicitations]]
+###  how to apply the indefinite equations of equilibrium
+[[Structure Engineering/4. Main concepts/Indefinite equations of equilibrium|Indefinite equations of equilibrium]]
 $\large T(x)= -\int q(x) \, dx+c_{1}$
 $\large M(x)=\int T(x) \, dx+c_{2}$
 where $c_{1}$ and $c_{2}$ can be derived applying the boundary conditions. 
@@ -57,14 +60,10 @@ ID: 1713434586698
 ![[Helper/media/Indefinite equations of equilibrium.png|300]]
 Vertical equilibrium:
 $T-T-dT-qdx=0 \rightarrow \frac{dT}{dx}=-q$
-ID: 1713434586703
-
-
 Rotational equilibrium:
 $M+Tdx-qdx\cdot \frac{dx}{2}-M-dM=0 \rightarrow \frac{dM}{dx}=T$
-
 The term $qdx\cdot \frac{dx}{2}$ has been canceled because it's an infinitesimal of higher order.
-
+ID: 1713434586703
 ### Principle of Virtual Work
 [[Structure Engineering/4. Main concepts/Principle of Virtual Works (PLV)|Principle of Virtual Works (PLV)]]
 Necessary and sufficient condition for the position $S_{0}$ of the system S, having smooth bilateral supports, to be an equilibrium condition is that the virtual work $\delta L$ of forces is equal to zero for each virtual displacement d* from the position $S_{0}$
