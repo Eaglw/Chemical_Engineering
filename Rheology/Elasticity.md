@@ -7,4 +7,4 @@ The *modulus of elasticity* is defined as the ratio of [[Rheology/Stress|stress]
 where:
 - (a) is a *linear elastic* behaviour
 - (b) is a *non-linear elastic* behaviour
-- (c) is a 
+- (c) is a *non-elastic* or *plastic-elastic* behaviour
