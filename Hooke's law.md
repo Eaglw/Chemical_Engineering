@@ -20,3 +20,6 @@ Common values for the Poisson's ratio $\nu$ are:
 - 0,25 for many materials
 - In general $0\leq \nu \geq 0.5$.
 The assumption of only one *elastic modulus* and *Poisson's ratio* is valid only for *homogeneous*, *isotropic* materials, otherwise we should consider different values for different directions.
+
+## Elasticity in shear
+Also a shear stress can cause an elastic response, a
