@@ -2,7 +2,7 @@
 dg-publish: "true"
 ---
 The property of materials known as *elasticity* refers to the ability of a material to regain its original shape after being deformed or stretched.
-The *modulus of elasticity* is defined, in the [[has the ratio of [[Rheology/Stress|stress]] to [[Rheology/Strain|strain]].
+The *modulus of elasticity* is defined, in the linear case, by the [[Hooke's law|Hooke's law]] as the ratio of [[Rheology/Stress|stress]] to [[Rheology/Strain|strain]].
 ![[Helper/media/Elasticity.png]]
 where:
 - (a) is a *linear elastic* behaviour
