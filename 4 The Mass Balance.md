@@ -256,5 +256,3 @@ $$
 \nabla \cdot \mathbf{v} = 0
 
 $$
-
-  ntyty
