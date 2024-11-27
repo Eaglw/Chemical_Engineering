@@ -1,6 +1,6 @@
 ---
 tags: 
-dg-publish: true
+dg-publish: "true"
 ---
 >[!important]
 >$\LARGE Ca = \frac{R \cdot \dot \gamma \cdot \eta}{\Gamma}$

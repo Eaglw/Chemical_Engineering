@@ -56,17 +56,11 @@ $$
   
 
 Since the unit vector **n** points outward from the control volume, any mass flow rate entering *V* is negative. Therefore, we add a negative sign to denote the mass flow rate entering as positive:
-
-  
-
 $$
 
 d\dot{m} = -\rho \, \mathbf{v} \cdot \mathbf{n} \, dS \tag{4.5}
 
 $$
-
-  
-
 To find the total mass flow rate across the system per unit time, we sum the contributions of all infinitesimal elements *dS* of *S* through a surface integral:
 
   
